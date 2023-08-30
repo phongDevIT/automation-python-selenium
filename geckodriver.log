@@ -210,3 +210,1097 @@ Dynamically enable window occlusion 1
 [GPU 11376, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
 [Parent 17076, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
 [GPU 11376, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1692867081840	geckodriver	INFO	Listening on 127.0.0.1:61997
+1692867084957	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61998" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileeVleuc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692867085632	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692867085794	Marionette	INFO	Listening on port 62011
+WebDriver BiDi listening on ws://127.0.0.1:61998
+Read port: 62011
+1692867086170	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61998/devtools/browser/a941ad72-0ea2-4469-b7d5-bd114bcf7508
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3DALL-vi-et-g-aw-c-home-awhp_xin1_signin%21o2&followup=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3DALL-vi-et-g-aw-c-home-awhp_xin1_signin%21o2&ifkv=AXo7B7W4mwVfEixKiAk2Gq0OOYfmS3qNrzLtxgMNa-UkOQFU5GxJCb9A8hFX4sP5D1Mh4UkfYJIbwQ&osid=1&passive=1209600&service=adwords&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1577125732%3A1692867092703608 line 206 > injectedScript line 2 > eval line 3263 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1692867113940	Marionette	INFO	Stopped listening on port 62011
+Dynamically enable window occlusion 1
+[Parent 1572, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 33188, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 1572, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 33188, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 1572, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 33188, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 1572, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 33188, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 1572, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 33188, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 1572, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 33188, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1692867265821	geckodriver	INFO	Listening on 127.0.0.1:62240
+1692867268911	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62241" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofile2UJ6mV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692867269222	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692867269312	Marionette	INFO	Listening on port 62251
+WebDriver BiDi listening on ws://127.0.0.1:62241
+Read port: 62251
+1692867269603	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62241/devtools/browser/90892ea6-70cd-4a80-aaa9-d76e0752754a
+[Parent 29220, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 31136, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript error: https://ads.google.com/home/static/home/js/index.min.js?cache=05b81a5, line 189: uncaught exception: CustomError: Jsloader error (code #0): Error while loading script https://www.gstatic.com/feedback/js/help/prod/service/lazy.min.js
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3DALL-vi-et-g-aw-c-home-awhp_xin1_signin%21o2&followup=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3DALL-vi-et-g-aw-c-home-awhp_xin1_signin%21o2&ifkv=AXo7B7WJ3_Y3HWr6NOcxR6EJhVkfopFrFHJgRNATcUjXcv2uUedfLE65kA5h7q1rnAZYFir0vZeJ&osid=1&passive=1209600&service=adwords&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1879153366%3A1692867288010818 line 194 > injectedScript line 2 > eval line 6461 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.en_US.A809jCSfWIg.es5.O/ck=boq-identity.AccountsSignInUi._z1FK_WFLj0.L.F4.O/am=eRwAIXMeYwDxP9X5nnFyGAACAAAAAAAAYBnu/d=1/exm=LEikZe,_b,_tp,byfTOb,lsjVmc/excm=_b,_tp,identifierview/ed=1/wt=2/ujg=1/rs=AOaEmlFiD7urmSs3sJJJUXnjkHGPU4qBZQ/ee=Al0B8:kibjWe;DaIJ8c:iAskyc;EkYFhd:BDnJmb;EmZ2Bf:zr1jrb;Erl4fe:FloWmf;JsbNhc:Xd8iUd;LBgRLc:XVMNvd;Me32dd:MEeYgc;NPKaK:PVlQOd;NSEoX:lazG7b;Oj465e:KG2eXe;Pjplud:EEDORb;QGR0gd:Mlhmy;SMDL4c:K0PMbc;SNUn3:ZwDk9d;UpnZUd:nnwwYc;XdiAjb:Nr4zW;a56pNe:JEfCwb;cEt90b:ws9Tlc;dIoSBb:SpsfSb;eBAeSb:zbML3c;iFQyKf:vfuNJf;io8t5d:yDVVkb;kMFpHd:OTA3Ae;nAFL3:NTMZac;nTuGK:JKNPM;oGtAuc:sOXFj;oSUNyd:K0PMbc;oXZmbc:tUnxGc;pXdRYb:fqEYIb;qddgKe:xQtZb;sP4Vbe:VwDzFe;uY49fb:COQbmf;ul9GGd:VDovNc;vNjB7d:YTxL4;wR5FRb:siKnQd;yxTchf:KUM7Z/m=n73qwf,SCuOPb,IZT63,vfuNJf,UUJqVe,ws9Tlc,siKnQd,STuCOe,njlZCf,fJpY1b,b3kMqb,EGw7Od,ZUKRxc,my67ye,t2srLd,EN3i8d,hmHrle,mWLH9d,NOeYWe,O6y8ed,fqEYIb,PrPYRd,MpJwZc,hc6Ubd,KUM7Z,oLggrd,inNHtf,L1AAkb,lwddkf,SpsfSb,tUnxGc,aW3pY,EFQ78c,xQtZb,I6YDgd,zbML3c,zr1jrb,vHEMJe,YHI3We,YTxL4,bSspM,Uas9Hd,zy0vNb,K0PMbc,AvtSve,qmdT9,xBaz7b,eVCnO,LDQI, line 707: Script terminated by timeout at:
+Bua@https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.en_US.A809jCSfWIg.es5.O/ck=boq-identity.AccountsSignInUi._z1FK_WFLj0.L.F4.O/am=eRwAIXMeYwDxP9X5nnFyGAACAAAAAAAAYBnu/d=1/exm=LEikZe,_b,_tp,byfTOb,lsjVmc/excm=_b,_tp,identifierview/ed=1/wt=2/ujg=1/rs=AOaEmlFiD7urmSs3sJJJUXnjkHGPU4qBZQ/ee=Al0B8:kibjWe;DaIJ8c:iAskyc;EkYFhd:BDnJmb;EmZ2Bf:zr1jrb;Erl4fe:FloWmf;JsbNhc:Xd8iUd;LBgRLc:XVMNvd;Me32dd:MEeYgc;NPKaK:PVlQOd;NSEoX:lazG7b;Oj465e:KG2eXe;Pjplud:EEDORb;QGR0gd:Mlhmy;SMDL4c:K0PMbc;SNUn3:ZwDk9d;UpnZUd:nnwwYc;XdiAjb:Nr4zW;a56pNe:JEfCwb;cEt90b:ws9Tlc;dIoSBb:SpsfSb;eBAeSb:zbML3c;iFQyKf:vfuNJf;io8t5d:yDVVkb;kMFpHd:OTA3Ae;nAFL3:NTMZac;nTuGK:JKNPM;oGtAuc:sOXFj;oSUNyd:K0PMbc;oXZmbc:tUnxGc;pXdRYb:fqEYIb;qddgKe:xQtZb;sP4Vbe:VwDzFe;uY49fb:COQbmf;ul9GGd:VDovNc;vNjB7d:YTxL4;wR5FRb:siKnQd;yxTchf:KUM7Z/m=n73qwf,SCuOPb,IZT63,vfuNJf,UUJqVe,ws9Tlc,siKnQd,STuCOe,njlZCf,fJpY1b,b3kMqb,EGw7Od,ZUKRxc,my67ye,t2srLd,EN3i8d,hmHrle,mWLH9d,NOeYWe,O6y8ed,fqEYIb,PrPYRd,MpJwZc,hc6Ubd,KUM7Z,oLggrd,inNHtf,L1AAkb,lwddkf,SpsfSb,tUnxGc,aW3pY,EFQ78c,xQtZb,I6YDgd,zbML3c,zr1jrb,vHEMJe,YHI3We,YTxL4,bSspM,Uas9Hd,zy0vNb,K0PMbc,AvtSve,qmdT9,xBaz7b,eVCnO,LDQI:707:447
+Aua@https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.en_US.A809jCSfWIg.es5.O/ck=boq-identity.AccountsSignInUi._z1FK_WFLj0.L.F4.O/am=eRwAIXMeYwDxP9X5nnFyGAACAAAAAAAAYBnu/d=1/exm=LEikZe,_b,_tp,byfTOb,lsjVmc/excm=_b,_tp,identifierview/ed=1/wt=2/ujg=1/rs=AOaEmlFiD7urmSs3sJJJUXnjkHGPU4qBZQ/ee=Al0B8:kibjWe;DaIJ8c:iAskyc;EkYFhd:BDnJmb;EmZ2Bf:zr1jrb;Erl4fe:FloWmf;JsbNhc:Xd8iUd;LBgRLc:XVMNvd;Me32dd:MEeYgc;NPKaK:PVlQOd;NSEoX:lazG7b;Oj465e:KG2eXe;Pjplud:EEDORb;QGR0gd:Mlhmy;SMDL4c:K0PMbc;SNUn3:ZwDk9d;UpnZUd:nnwwYc;XdiAjb:Nr4zW;a56pNe:JEfCwb;cEt90b:ws9Tlc;dIoSBb:SpsfSb;eBAeSb:zbML3c;iFQyKf:vfuNJf;io8t5d:yDVVkb;kMFpHd:OTA3Ae;nAFL3:NTMZac;nTuGK:JKNPM;oGtAuc:sOXFj;oSUNyd:K0PMbc;oXZmbc:tUnxGc;pXdRYb:fqEYIb;qddgKe:xQtZb;sP4Vbe:VwDzFe;uY49fb:COQbmf;ul9GGd:VDovNc;vNjB7d:YTxL4;wR5FRb:siKnQd;yxTchf:KUM7Z/m=n73qwf,SCuOPb,IZT63,vfuNJf,UUJqVe,ws9Tlc,siKnQd,STuCOe,njlZCf,fJpY1b,b3kMqb,EGw7Od,ZUKRxc,my67ye,t2srLd,EN3i8d,hmHrle,mWLH9d,NOeYWe,O6y8ed,fqEYIb,PrPYRd,MpJwZc,hc6Ubd,KUM7Z,oLggrd,inNHtf,L1AAkb,lwddkf,SpsfSb,tUnxGc,aW3pY,EFQ78c,xQtZb,I6YDgd,zbML3c,zr1jrb,vHEMJe,YHI3We,YTxL4,bSspM,Uas9Hd,zy0vNb,K0PMbc,AvtSve,qmdT9,xBaz7b,eVCnO,LDQI:706:20
+_.Yy.prototype.Bb@https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.en_US.A809jCSfWIg.es5.O/ck=boq-identity.AccountsSignInUi._z1FK_WFLj0.L.F4.O/am=eRwAIXMeYwDxP9X5nnFyGAACAAAAAAAAYBnu/d=1/exm=LEikZe,_b,_tp,byfTOb,lsjVmc/excm=_b,_tp,identifierview/ed=1/wt=2/ujg=1/rs=AOaEmlFiD7urmSs3sJJJUXnjkHGPU4qBZQ/ee=Al0B8:kibjWe;DaIJ8c:iAskyc;EkYFhd:BDnJmb;EmZ2Bf:zr1jrb;Erl4fe:FloWmf;JsbNhc:Xd8iUd;LBgRLc:XVMNvd;Me32dd:MEeYgc;NPKaK:PVlQOd;NSEoX:lazG7b;Oj465e:KG2eXe;Pjplud:EEDORb;QGR0gd:Mlhmy;SMDL4c:K0PMbc;SNUn3:ZwDk9d;UpnZUd:nnwwYc;XdiAjb:Nr4zW;a56pNe:JEfCwb;cEt90b:ws9Tlc;dIoSBb:SpsfSb;eBAeSb:zbML3c;iFQyKf:vfuNJf;io8t5d:yDVVkb;kMFpHd:OTA3Ae;nAFL3:NTMZac;nTuGK:JKNPM;oGtAuc:sOXFj;oSUNyd:K0PMbc;oXZmbc:tUnxGc;pXdRYb:fqEYIb;qddgKe:xQtZb;sP4Vbe:VwDzFe;uY49fb:COQbmf;ul9GGd:VDovNc;vNjB7d:YTxL4;wR5FRb:siKnQd;yxTchf:KUM7Z/m=n73qwf,SCuOPb,IZT63,vfuNJf,UUJqVe,ws9Tlc,siKnQd,STuCOe,njlZCf,fJpY1b,b3kMqb,EGw7Od,ZUKRxc,my67ye,t2srLd,EN3i8d,hmHrle,mWLH9d,NOeYWe,O6y8ed,fqEYIb,PrPYRd,MpJwZc,hc6Ubd,KUM7Z,oLggrd,inNHtf,L1AAkb,lwddkf,SpsfSb,tUnxGc,aW3pY,EFQ78c,xQtZb,I6YDgd,zbML3c,zr1jrb,vHEMJe,YHI3We,YTxL4,bSspM,Uas9Hd,zy0vNb,K0PMbc,AvtSve,qmdT9,xBaz7b,eVCnO,LDQI:705:222
+_.Yy/<@https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.en_US.A809jCSfWIg.es5.O/ck=boq-identity.AccountsSignInUi._z1FK_WFLj0.L.F4.O/am=eRwAIXMeYwDxP9X5nnFyGAACAAAAAAAAYBnu/d=1/exm=LEikZe,_b,_tp,byfTOb,lsjVmc/excm=_b,_tp,identifierview/ed=1/wt=2/ujg=1/rs=AOaEmlFiD7urmSs3sJJJUXnjkHGPU4qBZQ/ee=Al0B8:kibjWe;DaIJ8c:iAskyc;EkYFhd:BDnJmb;EmZ2Bf:zr1jrb;Erl4fe:FloWmf;JsbNhc:Xd8iUd;LBgRLc:XVMNvd;Me32dd:MEeYgc;NPKaK:PVlQOd;NSEoX:lazG7b;Oj465e:KG2eXe;Pjplud:EEDORb;QGR0gd:Mlhmy;SMDL4c:K0PMbc;SNUn3:ZwDk9d;UpnZUd:nnwwYc;XdiAjb:Nr4zW;a56pNe:JEfCwb;cEt90b:ws9Tlc;dIoSBb:SpsfSb;eBAeSb:zbML3c;iFQyKf:vfuNJf;io8t5d:yDVVkb;kMFpHd:OTA3Ae;nAFL3:NTMZac;nTuGK:JKNPM;oGtAuc:sOXFj;oSUNyd:K0PMbc;oXZmbc:tUnxGc;pXdRYb:fqEYIb;qddgKe:xQtZb;sP4Vbe:VwDzFe;uY49fb:COQbmf;ul9GGd:VDovNc;vNjB7d:YTxL4;wR5FRb:siKnQd;yxTchf:KUM7Z/m=n73qwf,SCuOPb,IZT63,vfuNJf,UUJqVe,ws9Tlc,siKnQd,STuCOe,njlZCf,fJpY1b,b3kMqb,EGw7Od,ZUKRxc,my67ye,t2srLd,EN3i8d,hmHrle,mWLH9d,NOeYWe,O6y8ed,fqEYIb,PrPYRd,MpJwZc,hc6Ubd,KUM7Z,oLggrd,inNHtf,L1AAkb,lwddkf,SpsfSb,tUnxGc,aW3pY,EFQ78c,xQtZb,I6YDgd,zbML3c,zr1jrb,vHEMJe,YHI3We,YTxL4,bSspM,Uas9Hd,zy0vNb,K0PMbc,AvtSve,qmdT9,xBaz7b,eVCnO,LDQI:699:404
+el@https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.en_US.A809jCSfWIg.es5.O/am=eRwAIXMeYwDxP9X5nnFyGAACAAAAAAAAYBnu/d=1/excm=_b,_tp,identifierview/ed=1/dg=0/wt=2/ujg=1/rs=AOaEmlG4T4Y2OfDWACn0eCnkLc0ZRaZG3g/m=_b,_tp:256:114
+c@https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.en_US.A809jCSfWIg.es5.O/am=eRwAIXMeYwDxP9X5nnFyGAACAAAAAAAAYBnu/d=1/excm=_b,_tp,identifierview/ed=1/dg=0/wt=2/ujg=1/rs=AOaEmlG4T4Y2OfDWACn0eCnkLc0ZRaZG3g/m=_b,_tp:264:253
+b@https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.en_US.A809jCSfWIg.es5.O/am=eRwAIXMeYwDxP9X5nnFyGAACAAAAAAAAYBnu/d=1/excm=_b,_tp,identifierview/ed=1/dg=0/wt=2/ujg=1/rs=AOaEmlG4T4Y2OfDWACn0eCnkLc0ZRaZG3g/m=_b,_tp:254:48
+
+1692867318628	Marionette	INFO	Stopped listening on port 62251
+Dynamically enable window occlusion 1
+[Parent 29220, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 31136, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 29220, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 31136, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 29220, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 31136, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 29220, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 31136, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 29220, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 31136, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1692867715900	geckodriver	INFO	Listening on 127.0.0.1:62613
+1692867718950	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62614" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofilehurBCy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692867719278	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692867719370	Marionette	INFO	Listening on port 62624
+WebDriver BiDi listening on ws://127.0.0.1:62614
+Read port: 62624
+1692867719728	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62614/devtools/browser/20adfe77-6910-4174-8925-0f132153404e
+1692867725378	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:221:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:180:31
+[Parent 29968, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 28104, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3DALL-vi-et-g-aw-c-home-awhp_xin1_signin%21o2&followup=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3DALL-vi-et-g-aw-c-home-awhp_xin1_signin%21o2&ifkv=AXo7B7XC87rkA1WffLGdpRGKIN1acleCSnXdQpPjnATsjf_nHaFUJb4PsBwzdWcUH9zP_chbBRkbrA&osid=1&passive=1209600&service=adwords&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1208812299%3A1692867725727956 line 206 > injectedScript line 2 > eval line 4027 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+[Parent 29968, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 28104, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1692867748437	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3DALL-vi-et-g-aw-c-home-awhp_xin1_signin%21o2&flowEntry=ServiceLogin&flowName=GlifWebSignIn&followup=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3DALL-vi-et-g-aw-c-home-awhp_xin1_signin%21o2&ifkv=AXo7B7XGJfVjDAzJy-a_NAIJEF0JMUDsxtHZMyzQNrcjlB-ibAnU_0lw87zy9wFqvRLb42JPoYTY&osid=1&service=adwords&dsh=S-1157140331%3A1692867741052138 line 4 > injectedScript line 2 > eval line 10 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.en_US.A809jCSfWIg.es5.O/ck=boq-identity.AccountsSignInUi._z1FK_WFLj0.L.F4.O/am=eRwAIXMeYwDxP9X5nnFyGAACAAAAAAAAYBnu/d=1/exm=A2sInc,ANCJdb,AkfuYc,AvtSve,BDnJmb,COQbmf,EEDORb,EFQ78c,EGw7Od,EN3i8d,G0cNrd,GGodmf,I6YDgd,IZT63,K0PMbc,KG2eXe,KUM7Z,L1AAkb,LDQI,LEikZe,MbBXlb,Mlhmy,MpJwZc,N5Lqpc,NOeYWe,NwH0H,O6y8ed,OTA3Ae,OmgaI,PkV8id,PrPYRd,SCuOPb,STuCOe,SUKkyc,SpsfSb,U0aPgd,UUJqVe,Uas9Hd,UmWJEc,V3dDOb,XVMNvd,XVq9Qb,YHI3We,YTxL4,ZUKRxc,ZfAoz,_b,_r,_tp,aW3pY,aurFic,b3kMqb,bSspM,byfTOb,e3uIRe,eVCnO,fJpY1b,fKUV3e,fgj8Rb,fqEYIb,gychg,hc6Ubd,hmHrle,i1Z3Ub,inNHtf,kWgXee,kibjWe,kmSu5b,lg30w,lsjVmc,lwddkf,mWLH9d,my67ye,n73qwf,njlZCf,nnwwYc,oLggrd,ovKuLd,qmdT9,siKnQd,t2srLd,tUnxGc,vDwyod,vHEMJe,vfuNJf,ws9Tlc,wzQaQb,xBaz7b,xQtZb,xUdipf,yDVVkb,zbML3c,zr1jrb,zsCYJ,zy0vNb/excm=_b,_r,_tp,identifierview/ed=1/wt=2/ujg=1/rs=AOaEmlFiD7urmSs3sJJJUXnjkHGPU4qBZQ/ee=Al0B8:kibjWe;DaIJ8c:iAskyc;EkYFhd:BDnJmb;EmZ2Bf:zr1jrb;Erl4fe:FloWmf;JsbNhc:Xd8iUd;LBgRLc:XVMNvd;Me32dd:MEeYgc;NPKaK:PVlQOd;NSEoX:lazG7b;Oj465e:KG2eXe;Pjplud:EEDORb;QGR0gd:Mlhmy;SMDL4c:K0PMbc;SNUn3:ZwDk9d;UpnZUd:nnwwYc;XdiAjb:Nr4zW;a56pNe:JEfCwb;cEt90b:ws9Tlc;dIoSBb:SpsfSb;eBAeSb:zbML3c;iFQyKf:vfuNJf;io8t5d:yDVVkb;kMFpHd:OTA3Ae;nAFL3:NTMZac;nTuGK:JKNPM;oGtAuc:sOXFj;oSUNyd:K0PMbc;oXZmbc:tUnxGc;pXdRYb:fqEYIb;qddgKe:xQtZb;sP4Vbe:VwDzFe;uY49fb:COQbmf;ul9GGd:VDovNc;vNjB7d:YTxL4;wR5FRb:siKnQd;yxTchf:KUM7Z/m=RqjULd, line 11: Script terminated by timeout at:
+ava/<@https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.en_US.A809jCSfWIg.es5.O/ck=boq-identity.AccountsSignInUi._z1FK_WFLj0.L.F4.O/am=eRwAIXMeYwDxP9X5nnFyGAACAAAAAAAAYBnu/d=1/exm=A2sInc,ANCJdb,AkfuYc,AvtSve,BDnJmb,COQbmf,EEDORb,EFQ78c,EGw7Od,EN3i8d,G0cNrd,GGodmf,I6YDgd,IZT63,K0PMbc,KG2eXe,KUM7Z,L1AAkb,LDQI,LEikZe,MbBXlb,Mlhmy,MpJwZc,N5Lqpc,NOeYWe,NwH0H,O6y8ed,OTA3Ae,OmgaI,PkV8id,PrPYRd,SCuOPb,STuCOe,SUKkyc,SpsfSb,U0aPgd,UUJqVe,Uas9Hd,UmWJEc,V3dDOb,XVMNvd,XVq9Qb,YHI3We,YTxL4,ZUKRxc,ZfAoz,_b,_r,_tp,aW3pY,aurFic,b3kMqb,bSspM,byfTOb,e3uIRe,eVCnO,fJpY1b,fKUV3e,fgj8Rb,fqEYIb,gychg,hc6Ubd,hmHrle,i1Z3Ub,inNHtf,kWgXee,kibjWe,kmSu5b,lg30w,lsjVmc,lwddkf,mWLH9d,my67ye,n73qwf,njlZCf,nnwwYc,oLggrd,ovKuLd,qmdT9,siKnQd,t2srLd,tUnxGc,vDwyod,vHEMJe,vfuNJf,ws9Tlc,wzQaQb,xBaz7b,xQtZb,xUdipf,yDVVkb,zbML3c,zr1jrb,zsCYJ,zy0vNb/excm=_b,_r,_tp,identifierview/ed=1/wt=2/ujg=1/rs=AOaEmlFiD7urmSs3sJJJUXnjkHGPU4qBZQ/ee=Al0B8:kibjWe;DaIJ8c:iAskyc;EkYFhd:BDnJmb;EmZ2Bf:zr1jrb;Erl4fe:FloWmf;JsbNhc:Xd8iUd;LBgRLc:XVMNvd;Me32dd:MEeYgc;NPKaK:PVlQOd;NSEoX:lazG7b;Oj465e:KG2eXe;Pjplud:EEDORb;QGR0gd:Mlhmy;SMDL4c:K0PMbc;SNUn3:ZwDk9d;UpnZUd:nnwwYc;XdiAjb:Nr4zW;a56pNe:JEfCwb;cEt90b:ws9Tlc;dIoSBb:SpsfSb;eBAeSb:zbML3c;iFQyKf:vfuNJf;io8t5d:yDVVkb;kMFpHd:OTA3Ae;nAFL3:NTMZac;nTuGK:JKNPM;oGtAuc:sOXFj;oSUNyd:K0PMbc;oXZmbc:tUnxGc;pXdRYb:fqEYIb;qddgKe:xQtZb;sP4Vbe:VwDzFe;uY49fb:COQbmf;ul9GGd:VDovNc;vNjB7d:YTxL4;wR5FRb:siKnQd;yxTchf:KUM7Z/m=RqjULd:11:2169
+c@https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.en_US.A809jCSfWIg.es5.O/ck=boq-identity.AccountsSignInUi._z1FK_WFLj0.L.F4.O/am=eRwAIXMeYwDxP9X5nnFyGAACAAAAAAAAYBnu/d=1/exm=A2sInc,ANCJdb,AkfuYc,AvtSve,BDnJmb,COQbmf,EEDORb,EFQ78c,EGw7Od,EN3i8d,G0cNrd,GGodmf,I6YDgd,IZT63,K0PMbc,KG2eXe,KUM7Z,L1AAkb,LDQI,LEikZe,MbBXlb,Mlhmy,MpJwZc,N5Lqpc,NOeYWe,NwH0H,O6y8ed,OTA3Ae,OmgaI,PkV8id,PrPYRd,SCuOPb,STuCOe,SUKkyc,SpsfSb,U0aPgd,UUJqVe,Uas9Hd,UmWJEc,V3dDOb,XVMNvd,XVq9Qb,YHI3We,YTxL4,ZUKRxc,ZfAoz,_b,_r,_tp,aW3pY,aurFic,b3kMqb,bSspM,byfTOb,e3uIRe,eVCnO,fJpY1b,fKUV3e,fgj8Rb,fqEYIb,gychg,hc6Ubd,hmHrle,i1Z3Ub,inNHtf,kWgXee,kibjWe,kmSu5b,lg30w,lsjVmc,lwddkf,mWLH9d,my67ye,n73qwf,njlZCf,nnwwYc,oLggrd,ovKuLd,qmdT9,siKnQd,t2srLd,tUnxGc,vDwyod,vHEMJe,vfuNJf,ws9Tlc,wzQaQb,xBaz7b,xQtZb,xUdipf,yDVVkb,zbML3c,zr1jrb,zsCYJ,zy0vNb/excm=_b,_r,_tp,identifierview/ed=1/wt=2/ujg=1/rs=AOaEmlFiD7urmSs3sJJJUXnjkHGPU4qBZQ/ee=Al0B8:kibjWe;DaIJ8c:iAskyc;EkYFhd:BDnJmb;EmZ2Bf:zr1jrb;Erl4fe:FloWmf;JsbNhc:Xd8iUd;LBgRLc:XVMNvd;Me32dd:MEeYgc;NPKaK:PVlQOd;NSEoX:lazG7b;Oj465e:KG2eXe;Pjplud:EEDORb;QGR0gd:Mlhmy;SMDL4c:K0PMbc;SNUn3:ZwDk9d;UpnZUd:nnwwYc;XdiAjb:Nr4zW;a56pNe:JEfCwb;cEt90b:ws9Tlc;dIoSBb:SpsfSb;eBAeSb:zbML3c;iFQyKf:vfuNJf;io8t5d:yDVVkb;kMFpHd:OTA3Ae;nAFL3:NTMZac;nTuGK:JKNPM;oGtAuc:sOXFj;oSUNyd:K0PMbc;oXZmbc:tUnxGc;pXdRYb:fqEYIb;qddgKe:xQtZb;sP4Vbe:VwDzFe;uY49fb:COQbmf;ul9GGd:VDovNc;vNjB7d:YTxL4;wR5FRb:siKnQd;yxTchf:KUM7Z/m=RqjULd:11:1946
+
+1692867756293	Marionette	INFO	Stopped listening on port 62624
+Dynamically enable window occlusion 1
+[Parent 29968, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 28104, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 29968, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 28104, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 29968, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 28104, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 29968, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 28104, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 29968, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 28104, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 29968, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 28104, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1692867762291	geckodriver	INFO	Listening on 127.0.0.1:62727
+1692867765408	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62728" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofilesI4kv9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692867765714	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692867765783	Marionette	INFO	Listening on port 62738
+WebDriver BiDi listening on ws://127.0.0.1:62728
+Read port: 62738
+1692867766055	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62728/devtools/browser/b7edf68f-1afd-4441-84d1-97e3b49fe4db
+[Parent 21336, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 13372, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1692867782147	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:221:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:180:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3DALL-vi-et-g-aw-c-home-awhp_xin1_signin%21o2&followup=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3DALL-vi-et-g-aw-c-home-awhp_xin1_signin%21o2&ifkv=AXo7B7Wqu-lwFebvE72ngx414F9yR7CE_bIHws7yvz72JfqVUpncpcm4q3AOpnG2T7kVdk8kGcpPHA&osid=1&passive=1209600&service=adwords&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S940528521%3A1692867782466275 line 206 > injectedScript line 2 > eval line 2939 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3DALL-vi-et-g-aw-c-home-awhp_xin1_signin%21o2&followup=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3DALL-vi-et-g-aw-c-home-awhp_xin1_signin%21o2&ifkv=AXo7B7Wqu-lwFebvE72ngx414F9yR7CE_bIHws7yvz72JfqVUpncpcm4q3AOpnG2T7kVdk8kGcpPHA&osid=1&passive=1209600&service=adwords&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S940528521%3A1692867782466275 line 206 > injectedScript line 2 > eval line 2939 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3DALL-vi-et-g-aw-c-home-awhp_xin1_signin%21o2&followup=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3DALL-vi-et-g-aw-c-home-awhp_xin1_signin%21o2&ifkv=AXo7B7Wqu-lwFebvE72ngx414F9yR7CE_bIHws7yvz72JfqVUpncpcm4q3AOpnG2T7kVdk8kGcpPHA&osid=1&passive=1209600&service=adwords&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S940528521%3A1692867782466275 line 206 > injectedScript line 2 > eval line 3639 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1692867835473	Marionette	INFO	Stopped listening on port 62738
+Dynamically enable window occlusion 1
+[Parent 21336, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 13372, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 21336, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 13372, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 21336, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 13372, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 21336, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 13372, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 21336, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 13372, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 21336, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 13372, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1692867837741	geckodriver	INFO	Listening on 127.0.0.1:62858
+1692867840843	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62859" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofiles2t9GZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692867841136	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692867841204	Marionette	INFO	Listening on port 62869
+WebDriver BiDi listening on ws://127.0.0.1:62859
+Read port: 62869
+1692867841496	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62859/devtools/browser/fe2932ac-c989-456e-8c45-80f5d7647463
+[Parent 24240, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 37108, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3DALL-vi-et-g-aw-c-home-awhp_xin1_signin%21o2&followup=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3DALL-vi-et-g-aw-c-home-awhp_xin1_signin%21o2&ifkv=AXo7B7XYizRwO953zuRn9LQ7eMGHv9MhWrCYc6xceD0H8pxzdlrNv6HbFCLjsXUXrYW_9kuchnIxlw&osid=1&passive=1209600&service=adwords&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S939861839%3A1692867846962331 line 206 > injectedScript line 2 > eval line 7535 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+[Parent 24240, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 37108, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1692867885859	Marionette	INFO	Stopped listening on port 62869
+Dynamically enable window occlusion 1
+[Parent 24240, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 37108, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 24240, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 37108, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 24240, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 37108, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 24240, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 37108, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 24240, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 37108, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 24240, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 37108, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1692868472031	geckodriver	INFO	Listening on 127.0.0.1:63332
+1692868475148	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63333" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofile0ql3Pj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692868475792	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692868475963	Marionette	INFO	Listening on port 63345
+WebDriver BiDi listening on ws://127.0.0.1:63333
+Read port: 63345
+1692868476378	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63333/devtools/browser/630e50d0-58e9-467f-b437-83f6a89bc534
+1692868484451	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:221:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:180:31
+[Parent 40916, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 15700, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3DALL-vi-et-g-aw-c-home-awhp_xin1_signin%21o2&followup=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3DALL-vi-et-g-aw-c-home-awhp_xin1_signin%21o2&ifkv=AXo7B7V10kt6vc9h7Ie5MrUuuWwOzxNthDwGVWUDrv_y1UEsG3kx26iMzML7TVd7Y6Lh5C2IU1sIPg&osid=1&passive=1209600&service=adwords&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S2030199568%3A1692868484806358 line 206 > injectedScript line 2 > eval line 5094 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1692869598178	Marionette	INFO	Stopped listening on port 63345
+Dynamically enable window occlusion 1
+[Parent 40916, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 15700, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 40916, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 15700, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 40916, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 15700, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 40916, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 15700, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 40916, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 15700, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 40916, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 15700, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+me/common/ipc_channel_win.cc:443
+[Parent 24308, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 10660, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 24308, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 10660, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 24308, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 10660, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 24308, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 10660, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1692868992319	geckodriver	INFO	Listening on 127.0.0.1:64264
+1692868995444	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64265" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileHi55VT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692868995797	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692868995871	Marionette	INFO	Listening on port 64296
+WebDriver BiDi listening on ws://127.0.0.1:64265
+Read port: 64296
+1692868996088	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64265/devtools/browser/5b99eba3-1606-4028-aaad-20a9f73d22e6
+1692869003953	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:221:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:180:31
+[Parent 15532, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 36084, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3DALL-vi-et-g-aw-c-home-awhp_xin1_signin%21o2&followup=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3DALL-vi-et-g-aw-c-home-awhp_xin1_signin%21o2&ifkv=AXo7B7We2Ho6EMwNFOSgPXgtb_Qq6sSAKlMbaCXY1UZdX8B_My7ePJTnirnaFK_-Z64NSExM54kTdg&osid=1&passive=1209600&service=adwords&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1476990383%3A1692869004403817 line 206 > injectedScript line 2 > eval line 2236 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1692869017164	Marionette	INFO	Stopped listening on port 64296
+Dynamically enable window occlusion 1
+[Parent 15532, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 36084, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 15532, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 36084, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 15532, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 36084, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 15532, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 36084, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 15532, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 36084, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 15532, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 36084, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1692869342648	geckodriver	INFO	Listening on 127.0.0.1:64630
+1692869345740	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64631" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileBtm8Ep"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692869346040	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692869346113	Marionette	INFO	Listening on port 64641
+WebDriver BiDi listening on ws://127.0.0.1:64631
+Read port: 64641
+1692869346404	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64631/devtools/browser/53d72f64-632d-4fc6-819f-8adf3862fdb0
+[Parent 3252, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 28252, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3DALL-vi-et-g-aw-c-home-awhp_xin1_signin%21o2&followup=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3DALL-vi-et-g-aw-c-home-awhp_xin1_signin%21o2&ifkv=AXo7B7XQePrwvRPsd5zU1cdwZibxdSJQ0DSuaDgXJG6Wj5EGOk3xUJwInxyQj2ao_cW_weFgwBxIaw&osid=1&passive=1209600&service=adwords&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S504056677%3A1692869351964247 line 206 > injectedScript line 2 > eval line 6860 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Parent 3252, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 28252, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N7926KD&l=peithoDataLayer, line 389: Script terminated by timeout at:
+Bv/<@https://www.googletagmanager.com/gtm.js?id=GTM-N7926KD&l=peithoDataLayer:389:149
+yf@https://www.googletagmanager.com/gtm.js?id=GTM-N7926KD&l=peithoDataLayer:141:241
+zf@https://www.googletagmanager.com/gtm.js?id=GTM-N7926KD&l=peithoDataLayer:143:159
+Af@https://www.googletagmanager.com/gtm.js?id=GTM-N7926KD&l=peithoDataLayer:142:288
+zf@https://www.googletagmanager.com/gtm.js?id=GTM-N7926KD&l=peithoDataLayer:143:78
+zf@https://www.googletagmanager.com/gtm.js?id=GTM-N7926KD&l=peithoDataLayer:143:419
+zf@https://www.googletagmanager.com/gtm.js?id=GTM-N7926KD&l=peithoDataLayer:143:333
+zf@https://www.googletagmanager.com/gtm.js?id=GTM-N7926KD&l=peithoDataLayer:142:442
+Af@https://www.googletagmanager.com/gtm.js?id=GTM-N7926KD&l=peithoDataLayer:142:288
+zf@https://www.googletagmanager.com/gtm.js?id=GTM-N7926KD&l=peithoDataLayer:143:78
+Af@https://www.googletagmanager.com/gtm.js?id=GTM-N7926KD&l=peithoDataLayer:142:288
+zf@https://www.googletagmanager.com/gtm.js?id=GTM-N7926KD&l=peithoDataLayer:143:78
+Af@https://www.googletagmanager.com/gtm.js?id=GTM-N7926KD&l=peithoDataLayer:142:288
+Bf@https://www.googletagmanager.com/gtm.js?id=GTM-N7926KD&l=peithoDataLayer:144:508
+If/<@https://www.googletagmanager.com/gtm.js?id=GTM-N7926KD&l=peithoDataLayer:146:161
+Jf@https://www.googletagmanager.com/gtm.js?id=GTM-N7926KD&l=peithoDataLayer:145:1230
+Kf@https://www.googletagmanager.com/gtm.js?id=GTM-N7926KD&l=peithoDataLayer:145:990
+Jv@https://www.googletagmanager.com/gtm.js?id=GTM-N7926KD&l=peithoDataLayer:388:559
+Uw@https://www.googletagmanager.com/gtm.js?id=GTM-N7926KD&l=peithoDataLayer:409:272
+Xw@https://www.googletagmanager.com/gtm.js?id=GTM-N7926KD&l=peithoDataLayer:414:57
+ax/b.push@https://www.googletagmanager.com/gtm.js?id=GTM-N7926KD&l=peithoDataLayer:418:315
+et/b.push@https://www.google-analytics.com/gtm/optimize.js?id=OPT-MBCCNV9&l=peithoDataLayer:246:165
+ax/b.push@https://www.googletagmanager.com/gtag/js?id=G-J51Y85KVRZ&l=peithoDataLayer&cx=c:401:165
+ax/<@https://www.googletagmanager.com/gtm.js?id=GTM-N7926KD&l=peithoDataLayer:417:387
+
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3DALL-vi-et-g-aw-c-home-awhp_xin1_signin%21o2&followup=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3DALL-vi-et-g-aw-c-home-awhp_xin1_signin%21o2&ifkv=AXo7B7XQePrwvRPsd5zU1cdwZibxdSJQ0DSuaDgXJG6Wj5EGOk3xUJwInxyQj2ao_cW_weFgwBxIaw&osid=1&passive=1209600&service=adwords&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S504056677%3A1692869351964247 line 4 > injectedScript line 2 > eval line 1535 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.en_US.A809jCSfWIg.es5.O/ck=boq-identity.AccountsSignInUi._z1FK_WFLj0.L.F4.O/am=eRwAIXMeYwDxP9X5nnFyGAACAAAAAAAAYBnu/d=1/exm=A2sInc,ANCJdb,AkfuYc,AvtSve,BDnJmb,COQbmf,EEDORb,EFQ78c,EGw7Od,EN3i8d,G0cNrd,GGodmf,I6YDgd,IZT63,K0PMbc,KG2eXe,KUM7Z,L1AAkb,LDQI,LEikZe,MbBXlb,Mlhmy,MpJwZc,N5Lqpc,NOeYWe,NwH0H,O6y8ed,OTA3Ae,OmgaI,PkV8id,PrPYRd,SCuOPb,STuCOe,SUKkyc,SpsfSb,U0aPgd,UUJqVe,Uas9Hd,UmWJEc,V3dDOb,XVMNvd,XVq9Qb,YHI3We,YTxL4,ZUKRxc,ZfAoz,_b,_r,_tp,aW3pY,aurFic,b3kMqb,bSspM,byfTOb,e3uIRe,eVCnO,fJpY1b,fKUV3e,fgj8Rb,fqEYIb,gychg,hc6Ubd,hmHrle,i1Z3Ub,inNHtf,kWgXee,kibjWe,kmSu5b,lg30w,lsjVmc,lwddkf,mWLH9d,my67ye,n73qwf,njlZCf,nnwwYc,oLggrd,ovKuLd,qmdT9,siKnQd,t2srLd,tUnxGc,vDwyod,vHEMJe,vfuNJf,ws9Tlc,wzQaQb,xBaz7b,xQtZb,xUdipf,yDVVkb,zbML3c,zr1jrb,zsCYJ,zy0vNb/excm=_b,_r,_tp,identifierview/ed=1/wt=2/ujg=1/rs=AOaEmlFiD7urmSs3sJJJUXnjkHGPU4qBZQ/ee=Al0B8:kibjWe;DaIJ8c:iAskyc;EkYFhd:BDnJmb;EmZ2Bf:zr1jrb;Erl4fe:FloWmf;JsbNhc:Xd8iUd;LBgRLc:XVMNvd;Me32dd:MEeYgc;NPKaK:PVlQOd;NSEoX:lazG7b;Oj465e:KG2eXe;Pjplud:EEDORb;QGR0gd:Mlhmy;SMDL4c:K0PMbc;SNUn3:ZwDk9d;UpnZUd:nnwwYc;XdiAjb:Nr4zW;a56pNe:JEfCwb;cEt90b:ws9Tlc;dIoSBb:SpsfSb;eBAeSb:zbML3c;iFQyKf:vfuNJf;io8t5d:yDVVkb;kMFpHd:OTA3Ae;nAFL3:NTMZac;nTuGK:JKNPM;oGtAuc:sOXFj;oSUNyd:K0PMbc;oXZmbc:tUnxGc;pXdRYb:fqEYIb;qddgKe:xQtZb;sP4Vbe:VwDzFe;uY49fb:COQbmf;ul9GGd:VDovNc;vNjB7d:YTxL4;wR5FRb:siKnQd;yxTchf:KUM7Z/m=RqjULd, line 19: Script terminated by timeout at:
+Gva/</b<@https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.en_US.A809jCSfWIg.es5.O/ck=boq-identity.AccountsSignInUi._z1FK_WFLj0.L.F4.O/am=eRwAIXMeYwDxP9X5nnFyGAACAAAAAAAAYBnu/d=1/exm=A2sInc,ANCJdb,AkfuYc,AvtSve,BDnJmb,COQbmf,EEDORb,EFQ78c,EGw7Od,EN3i8d,G0cNrd,GGodmf,I6YDgd,IZT63,K0PMbc,KG2eXe,KUM7Z,L1AAkb,LDQI,LEikZe,MbBXlb,Mlhmy,MpJwZc,N5Lqpc,NOeYWe,NwH0H,O6y8ed,OTA3Ae,OmgaI,PkV8id,PrPYRd,SCuOPb,STuCOe,SUKkyc,SpsfSb,U0aPgd,UUJqVe,Uas9Hd,UmWJEc,V3dDOb,XVMNvd,XVq9Qb,YHI3We,YTxL4,ZUKRxc,ZfAoz,_b,_r,_tp,aW3pY,aurFic,b3kMqb,bSspM,byfTOb,e3uIRe,eVCnO,fJpY1b,fKUV3e,fgj8Rb,fqEYIb,gychg,hc6Ubd,hmHrle,i1Z3Ub,inNHtf,kWgXee,kibjWe,kmSu5b,lg30w,lsjVmc,lwddkf,mWLH9d,my67ye,n73qwf,njlZCf,nnwwYc,oLggrd,ovKuLd,qmdT9,siKnQd,t2srLd,tUnxGc,vDwyod,vHEMJe,vfuNJf,ws9Tlc,wzQaQb,xBaz7b,xQtZb,xUdipf,yDVVkb,zbML3c,zr1jrb,zsCYJ,zy0vNb/excm=_b,_r,_tp,identifierview/ed=1/wt=2/ujg=1/rs=AOaEmlFiD7urmSs3sJJJUXnjkHGPU4qBZQ/ee=Al0B8:kibjWe;DaIJ8c:iAskyc;EkYFhd:BDnJmb;EmZ2Bf:zr1jrb;Erl4fe:FloWmf;JsbNhc:Xd8iUd;LBgRLc:XVMNvd;Me32dd:MEeYgc;NPKaK:PVlQOd;NSEoX:lazG7b;Oj465e:KG2eXe;Pjplud:EEDORb;QGR0gd:Mlhmy;SMDL4c:K0PMbc;SNUn3:ZwDk9d;UpnZUd:nnwwYc;XdiAjb:Nr4zW;a56pNe:JEfCwb;cEt90b:ws9Tlc;dIoSBb:SpsfSb;eBAeSb:zbML3c;iFQyKf:vfuNJf;io8t5d:yDVVkb;kMFpHd:OTA3Ae;nAFL3:NTMZac;nTuGK:JKNPM;oGtAuc:sOXFj;oSUNyd:K0PMbc;oXZmbc:tUnxGc;pXdRYb:fqEYIb;qddgKe:xQtZb;sP4Vbe:VwDzFe;uY49fb:COQbmf;ul9GGd:VDovNc;vNjB7d:YTxL4;wR5FRb:siKnQd;yxTchf:KUM7Z/m=RqjULd:19:425
+el@https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.en_US.A809jCSfWIg.es5.O/am=eRwAIXMeYwDxP9X5nnFyGAACAAAAAAAAYBnu/d=1/excm=_b,_r,_tp,identifierview/ed=1/dg=0/wt=2/ujg=1/rs=AOaEmlG4T4Y2OfDWACn0eCnkLc0ZRaZG3g/m=_b,_tp,_r:256:114
+c@https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.en_US.A809jCSfWIg.es5.O/am=eRwAIXMeYwDxP9X5nnFyGAACAAAAAAAAYBnu/d=1/excm=_b,_r,_tp,identifierview/ed=1/dg=0/wt=2/ujg=1/rs=AOaEmlG4T4Y2OfDWACn0eCnkLc0ZRaZG3g/m=_b,_tp,_r:264:253
+b@https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.en_US.A809jCSfWIg.es5.O/am=eRwAIXMeYwDxP9X5nnFyGAACAAAAAAAAYBnu/d=1/excm=_b,_r,_tp,identifierview/ed=1/dg=0/wt=2/ujg=1/rs=AOaEmlG4T4Y2OfDWACn0eCnkLc0ZRaZG3g/m=_b,_tp,_r:254:48
+
+1692869369138	Marionette	INFO	Stopped listening on port 64641
+Dynamically enable window occlusion 1
+[Parent 3252, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 28252, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 3252, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 28252, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 3252, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 28252, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 3252, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 28252, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 3252, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 28252, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 3252, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 28252, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1692869751613	geckodriver	INFO	Listening on 127.0.0.1:65016
+1692869754665	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65017" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileIl8ht4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692869755008	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692869755093	Marionette	INFO	Listening on port 65028
+WebDriver BiDi listening on ws://127.0.0.1:65017
+Read port: 65028
+1692869755395	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65017/devtools/browser/2ecefdee-738e-42d3-8cdd-66c81f23219d
+[Parent 33200, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 32000, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1692869764122	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:221:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:180:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3DALL-vi-et-g-aw-c-home-awhp_xin1_signin%21o2&followup=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3DALL-vi-et-g-aw-c-home-awhp_xin1_signin%21o2&ifkv=AXo7B7VPt-CmblKZSf1nXBJc0j6cJCJPgSuQvYBMmc22Nn95ywgyfqCulfEBirYHDeEYeoiXP28wcw&osid=1&passive=1209600&service=adwords&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1845547343%3A1692869764868989 line 206 > injectedScript line 2 > eval line 6034 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1692869783346	Marionette	INFO	Stopped listening on port 65028
+Dynamically enable window occlusion 1
+[Parent 33200, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 32000, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 33200, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 32000, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 33200, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 32000, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 33200, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 32000, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 33200, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 32000, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 33200, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 32000, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1692870527921	geckodriver	INFO	Listening on 127.0.0.1:49445
+1692870531001	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49446" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofile5u4yIk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692870531320	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692870531402	Marionette	INFO	Listening on port 49457
+WebDriver BiDi listening on ws://127.0.0.1:49446
+Read port: 49457
+1692870531706	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49446/devtools/browser/ed63f941-c666-4e5d-80a4-5386eb02d1e6
+[Parent 35168, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 28528, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3DALL-vi-et-g-aw-c-home-awhp_xin1_signin%21o2&followup=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3DALL-vi-et-g-aw-c-home-awhp_xin1_signin%21o2&ifkv=AXo7B7XWeEXO8AEWTUqBYN1Ur3eqtvkdRTiNVIC0eCKmmrbVYPsUntL_08VhVDxFKmvkWc0-tcYm&osid=1&passive=1209600&service=adwords&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1123384230%3A1692870540165703 line 206 > injectedScript line 2 > eval line 4485 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1692870551227	Marionette	INFO	Stopped listening on port 49457
+Dynamically enable window occlusion 1
+[Parent 35168, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 28528, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 35168, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 28528, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 35168, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 28528, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 35168, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 28528, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 35168, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 28528, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 35168, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 28528, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 35168, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1692872868518	geckodriver	INFO	Listening on 127.0.0.1:51274
+1692872871599	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51275" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofilegjRAX5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692872872687	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692872872864	Marionette	INFO	Listening on port 51288
+WebDriver BiDi listening on ws://127.0.0.1:51275
+Read port: 51288
+1692872873258	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51275/devtools/browser/64d0df2a-9776-42c7-890e-cf442301bd40
+[Parent 33560, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 38224, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3DALL-vi-et-g-aw-c-home-awhp_xin1_signin%21o2&followup=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3DALL-vi-et-g-aw-c-home-awhp_xin1_signin%21o2&ifkv=AXo7B7X1SD2ThIp0VATQfMndW1n0BDWaC3Ydi4aykzW8ak0-izq86a8FHJK4Ej8krIciAj2QaC_0PQ&osid=1&passive=1209600&service=adwords&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S671593881%3A1692872881573671 line 206 > injectedScript line 2 > eval line 5788 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+[Child 19724, MediaDecoderStateMachine #1] WARNING: 1d28d9e8ef0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3DALL-vi-et-g-aw-c-home-awhp_xin1_signin%21o2&followup=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3DALL-vi-et-g-aw-c-home-awhp_xin1_signin%21o2&ifkv=AXo7B7X1SD2ThIp0VATQfMndW1n0BDWaC3Ydi4aykzW8ak0-izq86a8FHJK4Ej8krIciAj2QaC_0PQ&osid=1&passive=1209600&service=adwords&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S671593881%3A1692872881573671 line 206 > injectedScript line 2 > eval line 5788 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3DALL-vi-et-g-aw-c-home-awhp_xin1_signin%21o2&followup=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3DALL-vi-et-g-aw-c-home-awhp_xin1_signin%21o2&ifkv=AXo7B7X1SD2ThIp0VATQfMndW1n0BDWaC3Ydi4aykzW8ak0-izq86a8FHJK4Ej8krIciAj2QaC_0PQ&osid=1&passive=1209600&service=adwords&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S671593881%3A1692872881573671 line 206 > injectedScript line 2 > eval line 5788 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1692872923109	Marionette	INFO	Stopped listening on port 51288
+Dynamically enable window occlusion 1
+[Parent 33560, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 38224, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 33560, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 38224, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 33560, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 38224, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 33560, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 38224, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 33560, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 38224, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 33560, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 38224, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1692878076839	geckodriver	INFO	Listening on 127.0.0.1:62816
+1692878079943	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62817" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileQ5eOcC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692878080510	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692878080638	Marionette	INFO	Listening on port 62825
+WebDriver BiDi listening on ws://127.0.0.1:62817
+Read port: 62825
+1692878081073	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62817/devtools/browser/b171c2c1-0fed-4bd0-a522-f5691e56ebc9
+[Parent 32456, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 38064, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3DALL-vi-et-g-aw-c-home-awhp_xin1_signin%21o2&followup=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3DALL-vi-et-g-aw-c-home-awhp_xin1_signin%21o2&ifkv=AXo7B7VRGBF5GVAINufRgh9Y4ORjIU-EbrDmnQw3gKCBaBUo87HN5BjjlGRaZJGesETIcV0n4BwkrQ&osid=1&passive=1209600&service=adwords&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-603438288%3A1692878088539201 line 206 > injectedScript line 2 > eval line 3780 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1692878433346	geckodriver	INFO	Listening on 127.0.0.1:63095
+1692878436397	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63096" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofile9INh1Z"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692878436866	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692878437022	Marionette	INFO	Listening on port 63106
+WebDriver BiDi listening on ws://127.0.0.1:63096
+Read port: 63106
+1692878437416	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63096/devtools/browser/a0efd8b9-4118-41e8-bb6c-aba0fbb4de0f
+1692878444831	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:221:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:180:31
+[Parent 26132, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 1020, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1692879748618	geckodriver	INFO	Listening on 127.0.0.1:64418
+1692879751699	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64419" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileLLKNqY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692879752255	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692879752349	Marionette	INFO	Listening on port 64428
+WebDriver BiDi listening on ws://127.0.0.1:64419
+Read port: 64428
+1692879752604	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64419/devtools/browser/88341ab3-692c-413e-8482-e4fdb0d52cdd
+[Parent 1416, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 18344, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 192: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 192: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 192: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 192: TypeError: rule is undefined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-J51Y85KVRZ&l=peithoDataLayer&cx=c, line 435: Script terminated by timeout at:
+aa.mh@https://www.googletagmanager.com/gtag/js?id=G-J51Y85KVRZ&l=peithoDataLayer&cx=c:435:42
+get@https://www.googletagmanager.com/gtag/js?id=G-J51Y85KVRZ&l=peithoDataLayer&cx=c:433:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-J51Y85KVRZ&l=peithoDataLayer&cx=c:433:87
+aa.uk/c/<@https://www.googletagmanager.com/gtag/js?id=G-J51Y85KVRZ&l=peithoDataLayer&cx=c:433:412
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1692881488733	Marionette	INFO	Stopped listening on port 64428
+Dynamically enable window occlusion 1
+[Parent 1416, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 18344, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 1416, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 18344, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 1416, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 18344, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 1416, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 18344, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 1416, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 18344, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1JbUm6F5RzW4huCp-0eXO8Epg&osid=1&passive=1209600&service=adwords&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1963425710%3A1692879861600188 line 206 > injectedScript line 2 > eval line 1011 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.en_US.A809jCSfWIg.es5.O/ck=boq-identity.AccountsSignInUi._z1FK_WFLj0.L.F4.O/am=eRwAIXMeYwDxP9X5nnFyGAACAAAAAAAAYBnu/d=1/exm=A2sInc,ANCJdb,AkfuYc,AvtSve,BDnJmb,COQbmf,Ctsu,EEDORb,EFQ78c,EGw7Od,EN3i8d,G0cNrd,GGodmf,I6YDgd,IZ1fbc,IZT63,K0PMbc,KG2eXe,KUM7Z,L1AAkb,LDQI,LEikZe,MbBXlb,Mlhmy,MpJwZc,N5Lqpc,NOeYWe,NTMZac,NwH0H,O6y8ed,OTA3Ae,OmgaI,PHUIyb,PkV8id,PrPYRd,RAnnUd,Rusgnf,SCuOPb,STuCOe,SUKkyc,SpsfSb,SzsEAf,U0aPgd,UPKV3d,UUJqVe,Uas9Hd,UmWJEc,V3dDOb,W2YXuc,XVMNvd,XVq9Qb,YHI3We,YTxL4,ZUKRxc,ZfAoz,_b,_r,_tp,aW3pY,aurFic,b3kMqb,bPkrc,bSspM,bTi8wc,byfTOb,e3uIRe,eVCnO,fJpY1b,fKUV3e,fgj8Rb,fqEYIb,gychg,hc6Ubd,hmHrle,i1Z3Ub,i5H9N,i5dxUd,inNHtf,kSPLL,kWgXee,kibjWe,kmSu5b,lg30w,lsjVmc,ltDFwf,lwddkf,m9oV,mWLH9d,my67ye,n73qwf,njlZCf,nnwwYc,oLggrd,ovKuLd,pxq3x,qNG0Fc,qPfo0c,qmdT9,siKnQd,soHxf,t2srLd,tUnxGc,uu7UOe,vDwyod,vHEMJe,vfuNJf,wGM7Jc,ws9Tlc,wzQaQb,xBaz7b,xQtZb,xUdipf,yDVVkb,yRXbo,ywOR5c,zbML3c,zr1jrb,zsCYJ,zy0vNb/excm=_b,_r,_tp,identifierview/ed=1/wt=2/ujg=1/rs=AOaEmlFiD7urmSs3sJJJUXnjkHGPU4qBZQ/ee=Al0B8:kibjWe;DaIJ8c:iAskyc;EkYFhd:BDnJmb;EmZ2Bf:zr1jrb;Erl4fe:FloWmf;JsbNhc:Xd8iUd;LBgRLc:XVMNvd;Me32dd:MEeYgc;NPKaK:PVlQOd;NSEoX:lazG7b;Oj465e:KG2eXe;Pjplud:EEDORb;QGR0gd:Mlhmy;SMDL4c:K0PMbc;SNUn3:ZwDk9d;UpnZUd:nnwwYc;XdiAjb:Nr4zW;a56pNe:JEfCwb;cEt90b:ws9Tlc;dIoSBb:SpsfSb;eBAeSb:zbML3c;iFQyKf:vfuNJf;io8t5d:yDVVkb;kMFpHd:OTA3Ae;nAFL3:NTMZac;nTuGK:JKNPM;oGtAuc:sOXFj;oSUNyd:K0PMbc;oXZmbc:tUnxGc;pXdRYb:fqEYIb;qddgKe:xQtZb;sP4Vbe:VwDzFe;uY49fb:COQbmf;ul9GGd:VDovNc;vNjB7d:YTxL4;wR5FRb:siKnQd;yxTchf:KUM7Z/m=RqjULd, line 19: Script terminated by timeout at:
+Gva/</b<@https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.en_US.A809jCSfWIg.es5.O/ck=boq-identity.AccountsSignInUi._z1FK_WFLj0.L.F4.O/am=eRwAIXMeYwDxP9X5nnFyGAACAAAAAAAAYBnu/d=1/exm=A2sInc,ANCJdb,AkfuYc,AvtSve,BDnJmb,COQbmf,Ctsu,EEDORb,EFQ78c,EGw7Od,EN3i8d,G0cNrd,GGodmf,I6YDgd,IZ1fbc,IZT63,K0PMbc,KG2eXe,KUM7Z,L1AAkb,LDQI,LEikZe,MbBXlb,Mlhmy,MpJwZc,N5Lqpc,NOeYWe,NTMZac,NwH0H,O6y8ed,OTA3Ae,OmgaI,PHUIyb,PkV8id,PrPYRd,RAnnUd,Rusgnf,SCuOPb,STuCOe,SUKkyc,SpsfSb,SzsEAf,U0aPgd,UPKV3d,UUJqVe,Uas9Hd,UmWJEc,V3dDOb,W2YXuc,XVMNvd,XVq9Qb,YHI3We,YTxL4,ZUKRxc,ZfAoz,_b,_r,_tp,aW3pY,aurFic,b3kMqb,bPkrc,bSspM,bTi8wc,byfTOb,e3uIRe,eVCnO,fJpY1b,fKUV3e,fgj8Rb,fqEYIb,gychg,hc6Ubd,hmHrle,i1Z3Ub,i5H9N,i5dxUd,inNHtf,kSPLL,kWgXee,kibjWe,kmSu5b,lg30w,lsjVmc,ltDFwf,lwdd1692881490691	Marionette	INFO	Stopped listening on port 65423
+Dynamically enable window occlusion 1
+[Parent 31288, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 17008, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 31288, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 17008, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 31288, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 17008, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 31288, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 17008, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 31288, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 17008, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 31288, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 17008, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 31288, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 17008, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 31288, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 17008, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 27736, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 26908, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 27736, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1692890019468	geckodriver	INFO	Listening on 127.0.0.1:57857
+1692890022655	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57858" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofilel60KEA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692890023075	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692890023156	Marionette	INFO	Listening on port 57866
+WebDriver BiDi listening on ws://127.0.0.1:57858
+Read port: 57866
+1692890023475	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57858/devtools/browser/6a290474-0027-484d-ac3c-b4d9c5250147
+1692890029493	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:221:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:180:31
+[Parent 31196, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 38452, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3Dvn-vi-ha-awa-bk-c-c00%21o3%7ECj0KCQjw_5unBhCMARIsACZyzS0tnmAm49L3bBY1Yo5pjk_pCLAkvBcopbeIhkEya0a6iWg-bvQeYe0aArJgEALw_wcB%7E135476288543%7Eaud-1225341332582%3Akwd-94527731%7E17294136620%7E598523990574&followup=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3Dvn-vi-ha-awa-bk-c-c00%21o3%7ECj0KCQjw_5unBhCMARIsACZyzS0tnmAm49L3bBY1Yo5pjk_pCLAkvBcopbeIhkEya0a6iWg-bvQeYe0aArJgEALw_wcB%7E135476288543%7Eaud-1225341332582%3Akwd-94527731%7E17294136620%7E598523990574&ifkv=AXo7B7VFWsxlQY-PGm9hNqMHF7O8cEAOlp3VklgD-GfLzpJFVA56CQDr2dijCX5TZFo9ZtK9UCr1oA&osid=1&passive=1209600&service=adwords&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1275738360%3A1692890040930576 line 206 > injectedScript line 2 > eval line 5959 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+[Child 24924, MediaDecoderStateMachine #1] WARNING: 21b733c9670 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3Dvn-vi-ha-awa-bk-c-c00%21o3%7ECj0KCQjw_5unBhCMARIsACZyzS0tnmAm49L3bBY1Yo5pjk_pCLAkvBcopbeIhkEya0a6iWg-bvQeYe0aArJgEALw_wcB%7E135476288543%7Eaud-1225341332582%3Akwd-94527731%7E17294136620%7E598523990574&followup=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3Dvn-vi-ha-awa-bk-c-c00%21o3%7ECj0KCQjw_5unBhCMARIsACZyzS0tnmAm49L3bBY1Yo5pjk_pCLAkvBcopbeIhkEya0a6iWg-bvQeYe0aArJgEALw_wcB%7E135476288543%7Eaud-1225341332582%3Akwd-94527731%7E17294136620%7E598523990574&ifkv=AXo7B7VFWsxlQY-PGm9hNqMHF7O8cEAOlp3VklgD-GfLzpJFVA56CQDr2dijCX5TZFo9ZtK9UCr1oA&osid=1&passive=1209600&service=adwords&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1275738360%3A1692890040930576 line 206 > injectedScript line 2 > eval line 5959 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3Dvn-vi-ha-awa-bk-c-c00%21o3%7ECj0KCQjw_5unBhCMARIsACZyzS0tnmAm49L3bBY1Yo5pjk_pCLAkvBcopbeIhkEya0a6iWg-bvQeYe0aArJgEALw_wcB%7E135476288543%7Eaud-1225341332582%3Akwd-94527731%7E17294136620%7E598523990574&followup=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3Dvn-vi-ha-awa-bk-c-c00%21o3%7ECj0KCQjw_5unBhCMARIsACZyzS0tnmAm49L3bBY1Yo5pjk_pCLAkvBcopbeIhkEya0a6iWg-bvQeYe0aArJgEALw_wcB%7E135476288543%7Eaud-1225341332582%3Akwd-94527731%7E17294136620%7E598523990574&ifkv=AXo7B7VFWsxlQY-PGm9hNqMHF7O8cEAOlp3VklgD-GfLzpJFVA56CQDr2dijCX5TZFo9ZtK9UCr1oA&osid=1&passive=1209600&service=adwords&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1275738360%3A1692890040930576 line 206 > injectedScript line 2 > eval line 4787 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3Dvn-vi-ha-awa-bk-c-c00%21o3%7ECj0KCQjw_5unBhCMARIsACZyzS0tnmAm49L3bBY1Yo5pjk_pCLAkvBcopbeIhkEya0a6iWg-bvQeYe0aArJgEALw_wcB%7E135476288543%7Eaud-1225341332582%3Akwd-94527731%7E17294136620%7E598523990574&followup=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3Dvn-vi-ha-awa-bk-c-c00%21o3%7ECj0KCQjw_5unBhCMARIsACZyzS0tnmAm49L3bBY1Yo5pjk_pCLAkvBcopbeIhkEya0a6iWg-bvQeYe0aArJgEALw_wcB%7E135476288543%7Eaud-1225341332582%3Akwd-94527731%7E17294136620%7E598523990574&ifkv=AXo7B7VFWsxlQY-PGm9hNqMHF7O8cEAOlp3VklgD-GfLzpJFVA56CQDr2dijCX5TZFo9ZtK9UCr1oA&osid=1&passive=1209600&service=adwords&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1275738360%3A1692890040930576 line 206 > injectedScript line 2 > eval line 4787 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+[Parent 31196, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 38452, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://www.google.com/js/bg/VOYjWJ9SYKUWeq_SiXQPiq5A6-bg1q_inShFnttaRxg.js line 2 > eval line 5479 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 597))
+JavaScript warning: https://www.gstatic.com/awn/cm/awn_cm_auto_20230821-1011_RC000/aw_cm/editing/main.dart.js_5821.part.js, line 19648: unreachable code after return statement
+JavaScript warning: https://www.google.com/js/bg/VOYjWJ9SYKUWeq_SiXQPiq5A6-bg1q_inShFnttaRxg.js line 2 > eval line 3895 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-HR9MP6ENEP, line 490: Script terminated by timeout at:
+aa.mh@https://www.googletagmanager.com/gtag/js?id=G-HR9MP6ENEP:490:89
+get@https://www.googletagmanager.com/gtag/js?id=G-HR9MP6ENEP:488:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-HR9MP6ENEP:488:87
+aa.uk/c/<@https://www.googletagmanager.com/gtag/js?id=G-HR9MP6ENEP:488:412
+
+[Parent 31196, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 38452, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-HR9MP6ENEP, line 490: Script terminated by timeout at:
+aa.mh@https://www.googletagmanager.com/gtag/js?id=G-HR9MP6ENEP:490:89
+get@https://www.googletagmanager.com/gtag/js?id=G-HR9MP6ENEP:488:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-HR9MP6ENEP:488:87
+aa.uk/c/<@https://www.googletagmanager.com/gtag/js?id=G-HR9MP6ENEP:488:412
+
+1692891299783	Marionette	INFO	Stopped listening on port 57866
+Dynamically enable window occlusion 1
+[Parent 31196, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 38452, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 31196, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 38452, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 31196, IPC I/O Parent] WARNING: DuJavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3Dvn-vi-ha-awa-bk-c-c00%21o3%7ECj0KCQjw_5unBhCMARIsACZyzS0tnmAm49L3bBY1Yo5pjk_pCLAkvBcopbeIhkEya0a6iWg-bvQeYe0aArJgEALw_wcB%7E135476288543%7Eaud-1225341332582%3Akwd-94527731%7E17294136620%7E598523990574&followup=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3Dvn-vi-ha-awa-bk-c-c00%21o3%7ECj0KCQjw_5unBhCMARIsACZyzS0tnmAm49L3bBY1Yo5pjk_pCLAkvBcopbeIhkEya0a6iWg-bvQeYe0aArJgEALw_wcB%7E135476288543%7Eaud-1225341332582%3Akwd-94527731%7E17294136620%7E598523990574&ifkv=AXo7B7XFq325oFOd8tQk8wChfwN-pAEWEI45S3Wd8eIYWcyAQ7BYBExiu45o0jvpgLGBvDMnUQybAw&osid=1&passive=1209600&service=adwords&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S855676992%3A1692891293677921, line 61: Script terminated by timeout at:
+n@https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3Dvn-vi-ha-awa-bk-c-c00%21o3%7ECj0KCQjw_5unBhCMARIsACZyzS0tnmAm49L3bBY1Yo5pjk_pCLAkvBcopbeIhkEya0a6iWg-bvQeYe0aArJgEALw_wcB%7E135476288543%7Eaud-1225341332582%3Akwd-94527731%7E17294136620%7E598523990574&followup=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3Dvn-vi-ha-awa-bk-c-c00%21o3%7ECj0KCQjw_5unBhCMARIsACZyzS0tnmAm49L3bBY1Yo5pjk_pCLAkvBcopbeIhkEya0a6iWg-bvQeYe0aArJgEALw_wcB%7E135476288543%7Eaud-1225341332582%3Akwd-94527731%7E17294136620%7E598523990574&ifkv=AXo7B7XFq325oFOd8tQk8wChfwN-pAEWEI45S3Wd8eIYWcyAQ7BYBExiu45o0jvpgLGBvDMnUQybAw&osid=1&passive=1209600&service=adwords&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S855676992%3A1692891293677921:61:35
+
+1692891302474	Marionette	INFO	Stopped listening on port 58884
+Dynamically enable window occlusion 1
+[Parent 9056, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 31108, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1692891302576	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, channelStatus: 2147500036, errorCode: 2, reason: error
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 324))
+[Parent 9056, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 31108, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 9056, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 31108, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 9056, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 31108, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 9056, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 31108, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 9056, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 31108, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1692891312505	geckodriver	INFO	Listening on 127.0.0.1:58977
+1692891315702	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58978" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofilecumAHv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692891316106	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692891316217	Marionette	INFO	Listening on port 58987
+WebDriver BiDi listening on ws://127.0.0.1:58978
+Read port: 58987
+1692891316610	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58978/devtools/browser/a5200567-75e9-4595-918f-0c90fc7b2d63
+1692891324764	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:221:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:180:31
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+[Parent 18584, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 6680, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3Dvn-vi-ha-awa-bk-c-c00%21o3%7ECj0KCQjw_5unBhCMARIsACZyzS0tnmAm49L3bBY1Yo5pjk_pCLAkvBcopbeIhkEya0a6iWg-bvQeYe0aArJgEALw_wcB%7E135476288543%7Eaud-1225341332582%3Akwd-94527731%7E17294136620%7E598523990574&followup=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3Dvn-vi-ha-awa-bk-c-c00%21o3%7ECj0KCQjw_5unBhCMARIsACZyzS0tnmAm49L3bBY1Yo5pjk_pCLAkvBcopbeIhkEya0a6iWg-bvQeYe0aArJgEALw_wcB%7E135476288543%7Eaud-1225341332582%3Akwd-94527731%7E17294136620%7E598523990574&ifkv=AXo7B7V6wNaEbabwsOtA8FPDwJL8E4yFG5UFHI3_NN75x_u9m5AoeIvEc0aw1w25HCD_2fWZoJgOIw&osid=1&passive=1209600&service=adwords&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1946895987%3A1692891336279641 line 206 > injectedScript line 2 > eval line 104 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3Dvn-vi-ha-awa-bk-c-c00%21o3%7ECj0KCQjw_5unBhCMARIsACZyzS0tnmAm49L3bBY1Yo5pjk_pCLAkvBcopbeIhkEya0a6iWg-bvQeYe0aArJgEALw_wcB%7E135476288543%7Eaud-1225341332582%3Akwd-94527731%7E17294136620%7E598523990574&followup=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3Dvn-vi-ha-awa-bk-c-c00%21o3%7ECj0KCQjw_5unBhCMARIsACZyzS0tnmAm49L3bBY1Yo5pjk_pCLAkvBcopbeIhkEya0a6iWg-bvQeYe0aArJgEALw_wcB%7E135476288543%7Eaud-1225341332582%3Akwd-94527731%7E17294136620%7E598523990574&ifkv=AXo7B7V6wNaEbabwsOtA8FPDwJL8E4yFG5UFHI3_NN75x_u9m5AoeIvEc0aw1w25HCD_2fWZoJgOIw&osid=1&passive=1209600&service=adwords&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1946895987%3A1692891336279641 line 206 > injectedScript line 2 > eval line 104 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3Dvn-vi-ha-awa-bk-c-c00%21o3%7ECj0KCQjw_5unBhCMARIsACZyzS0tnmAm49L3bBY1Yo5pjk_pCLAkvBcopbeIhkEya0a6iWg-bvQeYe0aArJgEALw_wcB%7E135476288543%7Eaud-1225341332582%3Akwd-94527731%7E17294136620%7E598523990574&followup=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3Dvn-vi-ha-awa-bk-c-c00%21o3%7ECj0KCQjw_5unBhCMARIsACZyzS0tnmAm49L3bBY1Yo5pjk_pCLAkvBcopbeIhkEya0a6iWg-bvQeYe0aArJgEALw_wcB%7E135476288543%7Eaud-1225341332582%3Akwd-94527731%7E17294136620%7E598523990574&ifkv=AXo7B7V6wNaEbabwsOtA8FPDwJL8E4yFG5UFHI3_NN75x_u9m5AoeIvEc0aw1w25HCD_2fWZoJgOIw&osid=1&passive=1209600&service=adwords&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1946895987%3A1692891336279641 line 206 > injectedScript line 2 > eval line 104 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3Dvn-vi-ha-awa-bk-c-c00%21o3%7ECj0KCQjw_5unBhCMARIsACZyzS0tnmAm49L3bBY1Yo5pjk_pCLAkvBcopbeIhkEya0a6iWg-bvQeYe0aArJgEALw_wcB%7E135476288543%7Eaud-1225341332582%3Akwd-94527731%7E17294136620%7E598523990574&followup=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3Dvn-vi-ha-awa-bk-c-c00%21o3%7ECj0KCQjw_5unBhCMARIsACZyzS0tnmAm49L3bBY1Yo5pjk_pCLAkvBcopbeIhkEya0a6iWg-bvQeYe0aArJgEALw_wcB%7E135476288543%7Eaud-1225341332582%3Akwd-94527731%7E17294136620%7E598523990574&ifkv=AXo7B7V6wNaEbabwsOtA8FPDwJL8E4yFG5UFHI3_NN75x_u9m5AoeIvEc0aw1w25HCD_2fWZoJgOIw&osid=1&passive=1209600&service=adwords&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1946895987%3A1692891336279641 line 206 > injectedScript line 2 > eval line 4115 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3Dvn-vi-ha-awa-bk-c-c00%21o3%7ECj0KCQjw_5unBhCMARIsACZyzS0tnmAm49L3bBY1Yo5pjk_pCLAkvBcopbeIhkEya0a6iWg-bvQeYe0aArJgEALw_wcB%7E135476288543%7Eaud-1225341332582%3Akwd-94527731%7E17294136620%7E598523990574&followup=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3Dvn-vi-ha-awa-bk-c-c00%21o3%7ECj0KCQjw_5unBhCMARIsACZyzS0tnmAm49L3bBY1Yo5pjk_pCLAkvBcopbeIhkEya0a6iWg-bvQeYe0aArJgEALw_wcB%7E135476288543%7Eaud-1225341332582%3Akwd-94527731%7E17294136620%7E598523990574&ifkv=AXo7B7V6wNaEbabwsOtA8FPDwJL8E4yFG5UFHI3_NN75x_u9m5AoeIvEc0aw1w25HCD_2fWZoJgOIw&osid=1&passive=1209600&service=adwords&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1946895987%3A1692891336279641 line 206 > injectedScript line 2 > eval line 4115 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+[Parent 18584, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 6680, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://www.google.com/js/bg/VOYjWJ9SYKUWeq_SiXQPiq5A6-bg1q_inShFnttaRxg.js line 2 > eval line 2820 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Parent 18584, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 6680, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://www.gstatic.com/awn/cm//brt/exp/awn_cm_auto_20230821-1011_RC000/cm/cm_shell_main.dart.js, line 47: Script terminated by timeout at:
+instanceTearOffGetter/<@https://www.gstatic.com/awn/cm//brt/exp/awn_cm_auto_20230821-1011_RC000/cm/cm_shell_main.dart.js:47:31
+gt3@https://www.gstatic.com/awn/cm//brt/exp/awn_cm_auto_20230821-1011_RC000/cm/cm_shell_main.dart.js:305958:22
+czi@https://www.gstatic.com/awn/cm//brt/exp/awn_cm_auto_20230821-1011_RC000/cm/cm_shell_main.dart.js:306020:3
+czh@https://www.gstatic.com/awn/cm//brt/exp/awn_cm_auto_20230821-1011_RC000/cm/cm_shell_main.dart.js:305972:6
+n5@https://www.gstatic.com/awn/cm//brt/exp/awn_cm_auto_20230821-1011_RC000/cm/cm_shell_main.dart.js:305963:6
+bpL@https://www.gstatic.com/awn/cm//brt/exp/awn_cm_auto_20230821-1011_RC000/cm/cm_shell_main.dart.js:285400:10
+$0@https://www.gstatic.com/awn/cm//brt/exp/awn_cm_auto_20230821-1011_RC000/cm/cm_shell_main.dart.js:285442:13
+pLU@https://www.gstatic.com/awn/cm//brt/exp/awn_cm_auto_20230821-1011_RC000/cm/cm_shell_main.dart.js:2439:9
+ix@https://www.gstatic.com/awn/cm//brt/exp/awn_cm_auto_20230821-1011_RC000/cm/cm_shell_main.dart.js:111410:12
+eP@https://www.gstatic.com/awn/cm//brt/exp/awn_cm_auto_20230821-1011_RC000/cm/cm_shell_main.dart.js:285407:15
+t@https://www.gstatic.com/awn/cm//brt/exp/awn_cm_auto_20230821-1011_RC000/cm/cm_shell_main.dart.js_1785.part.js:4519:6
+D@https://www.gstatic.com/awn/cm//brt/exp/awn_cm_auto_20230821-1011_RC000/cm/cm_shell_main.dart.js:307551:8
+t@https://www.gstatic.com/awn/cm//brt/exp/awn_cm_auto_20230821-1011_RC000/cm/cm_shell_main.dart.js_1785.part.js:5246:5
+D@https://www.gstatic.com/awn/cm//brt/exp/awn_cm_auto_20230821-1011_RC000/cm/cm_shell_main.dart.js:307641:11
+d0@https://www.gstatic.com/awn/cm//brt/exp/awn_cm_auto_20230821-1011_RC000/cm/cm_shell_main.dart.js:307644:19
+d0@https://www.gstatic.com/awn/cm//brt/exp/awn_cm_auto_20230821-1011_RC000/cm/cm_shell_main.dart.js:307452:33
+d0@https://www.gstatic.com/awn/cm//brt/exp/awn_cm_auto_20230821-1011_RC000/cm/cm_shell_main.dart.js:212447:13
+cQb@https://www.gstatic.com/awn/cm//brt/exp/awn_cm_auto_20230821-1011_RC000/cm/cm_shell_main.dart.js:307544:6
+D@https://www.gstatic.com/awn/cm//brt/exp/awn_cm_auto_20230821-1011_RC000/cm/cm_shell_main.dart.js:307547:22
+t@https://www.gstatic.com/awn/cm//brt/exp/awn_cm_auto_20230821-1011_RC000/cm/cm_shell_main.dart.js:175054:3
+D@https://www.gstatic.com/awn/cm//brt/exp/awn_cm_auto_20230821-1011_RC000/cm/cm_shell_main.dart.js:307596:11
+C@https://www.gstatic.com/awn/cm//brt/exp/awn_cm_auto_20230821-1011_RC000/cm/cm_shell_main.dart.js:307455:33
+t@https://www.gstatic.com/awn/cm//brt/exp/awn_cm_auto_20230821-1011_RC000/cm/cm_shell_main.dart.js:174604:5
+D@https://www.gstatic.com/awn/cm//brt/exp/awn_cm_auto_20230821-1011_RC000/cm/cm_shell_main.dart.js:307596:11
+C@https://www.gstatic.com/awn/cm//brt/exp/awn_cm_auto_20230821-1011_RC000/cm/cm_shell_main.dart.js:307455:33
+t@https://www.gstatic.com/awn/cm//brt/exp/awn_cm_auto_20230821-1011_RC000/cm/cm_shell_main.dart.js:174439:5
+D@https://www.gstatic.com/awn/cm//brt/exp/awn_cm_auto_20230821-1011_RC000/cm/cm_shell_main.dart.js:307551:8
+t@https://www.gstatic.com/awn/cm//brt/exp/awn_cm_auto_20230821-1011_RC000/cm/cm_shell_main.dart.js:165346:3
+D@https://www.gstatic.com/awn/cm//brt/exp/awn_cm_auto_20230821-1011_RC000/cm/cm_shell_main.dart.js:307596:11
+C@https://www.gstatic.com/awn/cm//brt/exp/awn_cm_auto_20230821-1011_RC000/cm/cm_shell_main.dart.js:307455:33
+t@https://www.gstatic.com/awn/cm//brt/exp/awn_cm_auto_20230821-1011_RC000/cm/cm_shell_main.dart.js:165165:8
+D@https://www.gstatic.com/awn/cm//brt/exp/awn_cm_auto_20230821-1011_RC000/cm/cm_shell_main.dart.js:307551:8
+t@https://www.gstatic.com/awn/cm//brt/exp/awn_cm_auto_20230821-1011_RC000/cm/cm_shell_main.dart.js:165470:8
+D@https://www.gstatic.com/awn/cm//brt/exp/awn_cm_auto_20230821-1011_RC000/cm/cm_shell_main.dart.js:307641:11
+h6R@https://www.gstatic.com/awn/cm//brt/exp/awn_cm_auto_20230821-1011_RC000/cm/cm_shell_main.dart.js:307355:22
+iJu@https://www.gstatic.com/awn/cm//brt/exp/awn_cm_auto_20230821-1011_RC000/cm/cm_shell_main.dart.js:307349:3
+Cmh/<@https://www.gstatic.com/awn/cm//brt/exp/awn_cm_auto_20230821-1011_RC000/cm/cm_shell_main.dart.js:761:79
+$0@https://www.gstatic.com/awn/cm//brt/exp/awn_cm_auto_20230821-1011_RC000/cm/cm_shell_main.dart.js:307800:14
+pLU@https://www.gstatic.com/awn/cm//brt/exp/awn_cm_auto_20230821-1011_RC000/cm/cm_shell_main.dart.js:2435:18
+cth@https://www.gstatic.com/awn/cm//brt/exp/awn_cm_auto_20230821-1011_RC000/cm/cm_shell_main.dart.js:307761:12
+Cmh/<@https://www.gstatic.com/awn/cm//brt/exp/awn_cm_auto_20230821-1011_RC000/cm/cm_shell_main.dart.js:766:73
+ix@https://www.gstatic.com/awn/cm//brt/exp/awn_cm_auto_20230821-1011_RC000/cm/cm_shell_main.dart.js:111410:12
+Fi@https://www.gstatic.com/awn/cm//brt/exp/awn_cm_auto_20230821-1011_RC000/cm/cm_shell_main.dart.js:111384:10
+$1@https://www.gstatic.com/awn/cm//brt/exp/awn_cm_auto_20230821-1011_RC000/cm/cm_shell_main.dart.js:307054:3
+$1@https://www.gstatic.com/awn/cm//brt/exp/awn_cm_auto_20230821-1011_RC000/cm/cm_shell_main.dart.js:307806:10
+pLW@https://www.gstatic.com/awn/cm//brt/exp/awn_cm_auto_20230821-1011_RC000/cm/cm_shell_main.dart.js:2442:18
+ctj@https://www.gstatic.com/awn/cm//brt/exp/awn_cm_auto_20230821-1011_RC000/cm/cm_shell_main.dart.js:307764:12
+Cmh/<@https://www.gstatic.com/awn/cm//brt/exp/awn_cm_auto_20230821-1011_RC000/cm/cm_shell_main.dart.js:767:57
+PB@https://www.gstatic.com/awn/cm//brt/exp/awn_cm_auto_20230821-1011_RC000/cm/cm_shell_main.dart.js:111412:12
+a5H@https://www.gstatic.com/awn/cm//brt/exp/awn_cm_auto_20230821-1011_RC000/cm/cm_shell_main.dart.js:111388:10
+nN@https://www.gstatic.com/awn/cm//brt/exp/awn_cm_auto_20230821-1011_RC000/cm/cm_shell_main.dart.js:110917:5
+xa@https://www.gstatic.com/awn/cm//brt/exp/awn_cm_auto_20230821-1011_RC000/cm/cm_shell_main.dart.js:110893:11
+$1@https://www.gstatic.com/awn/cm//brt/exp/awn_cm_auto_20230821-1011_RC000/cm/cm_shell_main.dart.js:110037:9
+biE@https://www.gstatic.com/awn/cm//brt/exp/awn_cm_auto_20230821-1011_RC000/cm/cm_shell_main.dart.js:110007:3
+nN@https://www.gstatic.com/awn/cm//brt/exp/awn_cm_auto_20230821-1011_RC000/cm/cm_shell_main.dart.js:110030:10
+aa@https://www.gstatic.com/awn/cm//brt/exp/awn_cm_auto_20230821-1011_RC000/cm/cm_shell_main.dart.js:109967:6
+bfL@https://www.gstatic.com/awn/cm//brt/exp/awn_cm_auto_20230821-1011_RC000/cm/cm_shell_main.dart.js:307785:14
+bmY@https://www.gstatic.com/awn/cm//brt/exp/awn_cm_auto_20230821-1011_RC000/cm/cm_shell_main.dart.js:307774:6
+$1@https://www.gstatic.com/awn/cm//brt/exp/awn_cm_auto_20230821-1011_RC000/cm/cm_shell_main.dart.js:307807:25
+pLW@https://www.gstatic.com/awn/cm//brt/exp/awn_cm_auto_20230821-1011_RC000/cm/cm_shell_main.dart.js:2446:9
+ctj@https://www.gstatic.com/awn/cm//brt/exp/awn_cm_auto_20230821-1011_RC000/cm/cm_shell_main.dart.js:307764:12
+Cmh/<@https://www.gstatic.com/awn/cm//brt/exp/awn_cm_auto_20230821-1011_RC000/cm/cm_shell_main.dart.js:767:57
+PB@https://www.gstatic.com/awn/cm//brt/exp/awn_cm_auto_20230821-1011_RC000/cm/cm_shell_main.dart.js:111412:12
+a5H@https://www.gstatic.com/awn/cm//brt/exp/awn_cm_auto_20230821-1011_RC000/cm/cm_shell_main.dart.js:111388:10
+$1@https://www.gstatic.com/awn/cm//brt/exp/awn_cm_auto_20230821-1011_RC000/cm/cm_shell_main.dart.js:111461:21
+
+1692892431234	Marionette	INFO	Stopped listening on port 58987
+Dynamically enable window occlusion 1
+[Parent 18584, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 6680, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 18584, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 6680, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 18584, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 6680, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 18584, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 6680, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1692892512752	geckodriver	INFO	Listening on 127.0.0.1:59858
+1692892515847	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59859" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofilePgWSBH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692892516261	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692892516349	Marionette	INFO	Listening on port 59868
+WebDriver BiDi listening on ws://127.0.0.1:59859
+Read port: 59868
+1692892516702	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59859/devtools/browser/e36b0add-9d39-4929-b96c-5a2f8143175c
+1692892523493	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:221:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:180:31
+[Parent 18744, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 38940, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3DALL-vi-et-g-aw-c-home-awhp_xin1_signin%21o2&followup=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3DALL-vi-et-g-aw-c-home-awhp_xin1_signin%21o2&ifkv=AXo7B7WA0fg-Ru76r4ULkQrUXogLRf6a-A_5bwXm3N5C-4askdkYKSnpxuqXbUgK9TP0WPSwEuIF1Q&osid=1&passive=1209600&service=adwords&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S151098407%3A1692892534951796 line 206 > injectedScript line 2 > eval line 3284 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3DALL-vi-et-g-aw-c-home-awhp_xin1_signin%21o2&followup=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3DALL-vi-et-g-aw-c-home-awhp_xin1_signin%21o2&ifkv=AXo7B7WA0fg-Ru76r4ULkQrUXogLRf6a-A_5bwXm3N5C-4askdkYKSnpxuqXbUgK9TP0WPSwEuIF1Q&osid=1&passive=1209600&service=adwords&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S151098407%3A1692892534951796 line 206 > injectedScript line 2 > eval line 3284 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3DALL-vi-et-g-aw-c-home-awhp_xin1_signin%21o2&followup=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3DALL-vi-et-g-aw-c-home-awhp_xin1_signin%21o2&ifkv=AXo7B7WA0fg-Ru76r4ULkQrUXogLRf6a-A_5bwXm3N5C-4askdkYKSnpxuqXbUgK9TP0WPSwEuIF1Q&osid=1&passive=1209600&service=adwords&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S151098407%3A1692892534951796 line 206 > injectedScript line 2 > eval line 6352 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3DALL-vi-et-g-aw-c-home-awhp_xin1_signin%21o2&followup=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3DALL-vi-et-g-aw-c-home-awhp_xin1_signin%21o2&ifkv=AXo7B7WA0fg-Ru76r4ULkQrUXogLRf6a-A_5bwXm3N5C-4askdkYKSnpxuqXbUgK9TP0WPSwEuIF1Q&osid=1&passive=1209600&service=adwords&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S151098407%3A1692892534951796 line 206 > injectedScript line 2 > eval line 6352 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1692892558840	Marionette	INFO	Stopped listening on port 59868
+Dynamically enable window occlusion 1
+[Parent 18744, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 38940, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 18744, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 38940, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 18744, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 38940, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 18744, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 38940, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 18744, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 38940, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1692925393318	geckodriver	INFO	Listening on 127.0.0.1:52560
+1692925396431	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52561" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofilef7NlqR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692925397556	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692925397756	Marionette	INFO	Listening on port 52570
+WebDriver BiDi listening on ws://127.0.0.1:52561
+Read port: 52570
+1692925398240	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52561/devtools/browser/9782b0f5-2032-4fb0-bae3-132846c72ef1
+1692925405213	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:221:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:180:31
+[Parent 35932, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 11896, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3DALL-vi-et-g-aw-c-home-awhp_xin1_signin%21o2&followup=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3DALL-vi-et-g-aw-c-home-awhp_xin1_signin%21o2&ifkv=AXo7B7WFoUShtPm6i1JSZ3ioKO7I6Rw_QTBrqY6bevTX2XT-lYS5skQ8fpdqRymHS-r5WEWqA3IcVg&osid=1&passive=1209600&service=adwords&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1225237961%3A1692925416546449 line 206 > injectedScript line 2 > eval line 7330 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1692925418832	Marionette	INFO	Stopped listening on port 52570
+Dynamically enable window occlusion 1
+[Parent 35932, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 11896, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 35932, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 11896, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 35932, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 11896, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 35932, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 11896, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 35932, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 11896, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 35932, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 11896, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1692925559710	geckodriver	INFO	Listening on 127.0.0.1:52751
+1692925562928	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52752" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileKivsxY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692925563536	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692925563717	Marionette	INFO	Listening on port 52759
+WebDriver BiDi listening on ws://127.0.0.1:52752
+Read port: 52759
+1692925564299	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52752/devtools/browser/b7719c31-ffdb-4d15-8cb5-aea6c578db72
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?checkedDomains=youtube&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&flowEntry=ServiceLogin&flowName=GlifWebSignIn&ifkv=AXo7B7WC0q9zU62Hiv9ARbl0FEevDvFo9DS2y7HbH7R10-AziDz4G_3vB53Gxh1ftff1JLlR68psqw&pstMsg=1&rip=1&service=mail&dsh=S-955384532%3A1692331835568287 line 206 > injectedScript line 2 > eval line 1517 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Parent 20556, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 39196, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1692925670465	geckodriver	INFO	Listening on 127.0.0.1:52814
+1692925673560	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52815" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofilezai14p"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692925674090	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692925674187	Marionette	INFO	Listening on port 52823
+WebDriver BiDi listening on ws://127.0.0.1:52815
+Read port: 52823
+1692925674548	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52815/devtools/browser/d8f8f034-bd3c-4dc7-a2ea-d89ff7286a02
+1692925733328	geckodriver	INFO	Listening on 127.0.0.1:52889
+1692925736557	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52890" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileHL649a"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692925737311	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692925737447	Marionette	INFO	Listening on port 52899
+WebDriver BiDi listening on ws://127.0.0.1:52890
+Read port: 52899
+1692925737851	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52890/devtools/browser/6fd6d5a6-b241-4175-a842-42859f29f041
+1692925801933	geckodriver	INFO	Listening on 127.0.0.1:52950
+1692925804986	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52951" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileRE7MG4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692925805485	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692925805589	Marionette	INFO	Listening on port 52961
+WebDriver BiDi listening on ws://127.0.0.1:52951
+Read port: 52961
+1692925806011	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52951/devtools/browser/811fe02c-52d2-491e-b477-0d41bcd26b6f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ifkv=AXo7B7Vq9XMB9K7crnzyC9Rrt2ITG0a_qZ4vXNMch642pZocwSFwhqOZ2yZY37dljkCkJkmIsTOK&rip=1&sacu=1&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1477053010%3A1692925716219537 line 206 > injectedScript line 2 > eval line 4477 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Parent 13176, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 38968, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.en_US.A809jCSfWIg.es5.O/am=eRwAITMeYwDxP9X5nnFyGAAAAAAAgAAAYBnu/d=1/excm=_b,_r,_tp,identifierview/ed=1/dg=0/wt=2/ujg=1/rs=AOaEmlGyEzth1sJf1A2YUUUke47I0U3v6w/m=_b,_tp,_r, line 328: Script terminated by timeout at:
+Jba.prototype.Uh@https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.en_US.A809jCSfWIg.es5.O/am=eRwAITMeYwDxP9X5nnFyGAAAAAAAgAAAYBnu/d=1/excm=_b,_r,_tp,identifierview/ed=1/dg=0/wt=2/ujg=1/rs=AOaEmlGyEzth1sJf1A2YUUUke47I0U3v6w/m=_b,_tp,_r:328:36
+n@https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ifkv=AXo7B7Vq9XMB9K7crnzyC9Rrt2ITG0a_qZ4vXNMch642pZocwSFwhqOZ2yZY37dljkCkJkmIsTOK&rip=1&sacu=1&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1477053010%3A1692925716219537:66:485
+
+1692925819606	Marionette	INFO	Stopped listening on port 52961
+Dynamically enable window occlusion 1
+[Parent 13176, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 38968, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 13176, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 38968, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 13176, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 38968, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 13176, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 38968, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 13176, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 38968, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 13176, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 38968, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1692925865198	geckodriver	INFO	Listening on 127.0.0.1:53008
+1692925868299	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53009" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileeJseJc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692925868899	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692925869032	Marionette	INFO	Listening on port 53017
+WebDriver BiDi listening on ws://127.0.0.1:53009
+Read port: 53017
+1692925869449	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53009/devtools/browser/61d0087b-ec42-4605-a27f-51d38cc544bd
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ifkv=AXo7B7Vq9XMB9K7crnzyC9Rrt2ITG0a_qZ4vXNMch642pZocwSFwhqOZ2yZY37dljkCkJkmIsTOK&rip=1&sacu=1&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1477053010%3A1692925716219537 line 206 > injectedScript line 2 > eval line 5541 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+[Parent 16812, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12264, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1692925901505	geckodriver	INFO	Listening on 127.0.0.1:53065
+1692925904596	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53066" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofilefXT0st"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692925905194	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692925905303	Marionette	INFO	Listening on port 53074
+WebDriver BiDi listening on ws://127.0.0.1:53066
+Read port: 53074
+1692925905663	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53066/devtools/browser/eaaf72c3-7442-4ceb-9124-20d106f29ed4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ifkv=AXo7B7Vq9XMB9K7crnzyC9Rrt2ITG0a_qZ4vXNMch642pZocwSFwhqOZ2yZY37dljkCkJkmIsTOK&rip=1&sacu=1&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1477053010%3A1692925716219537 line 206 > injectedScript line 2 > eval line 5440 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1692925914546	Marionette	INFO	Stopped listening on port 53074
+Dynamically enable window occlusion 1
+[Parent 16728, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 22696, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 16728, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 22696, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 16728, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 22696, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 16728, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 22696, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 16728, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 22696, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 16728, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 22696, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 16728, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 22696, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1692926010806	geckodriver	INFO	Listening on 127.0.0.1:53137
+1692926013871	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53138" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileK9CccK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692926014559	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692926014713	Marionette	INFO	Listening on port 53148
+WebDriver BiDi listening on ws://127.0.0.1:53138
+Read port: 53148
+1692926015071	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53138/devtools/browser/aa382eeb-737b-4f27-8e0e-820c9a23adfe
+1692926023078	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:221:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:180:31
+[Parent 23644, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 34292, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3DALL-vi-et-g-aw-c-home-awhp_xin1_signin%21o2&followup=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3DALL-vi-et-g-aw-c-home-awhp_xin1_signin%21o2&ifkv=AXo7B7UZYlpL1d6VcXyixU0dW56bbFhPtJDGD3DulUSSlWacQrRZfYsC7-rIpZFpAmpPJ1UKnihO8Q&osid=1&passive=1209600&service=adwords&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1040346421%3A1692926034528106 line 206 > injectedScript line 2 > eval line 6141 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3DALL-vi-et-g-aw-c-home-awhp_xin1_signin%21o2&followup=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3DALL-vi-et-g-aw-c-home-awhp_xin1_signin%21o2&ifkv=AXo7B7UZYlpL1d6VcXyixU0dW56bbFhPtJDGD3DulUSSlWacQrRZfYsC7-rIpZFpAmpPJ1UKnihO8Q&osid=1&passive=1209600&service=adwords&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1040346421%3A1692926034528106 line 206 > injectedScript line 2 > eval line 6141 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3DALL-vi-et-g-aw-c-home-awhp_xin1_signin%21o2&followup=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3DALL-vi-et-g-aw-c-home-awhp_xin1_signin%21o2&ifkv=AXo7B7UZYlpL1d6VcXyixU0dW56bbFhPtJDGD3DulUSSlWacQrRZfYsC7-rIpZFpAmpPJ1UKnihO8Q&osid=1&passive=1209600&service=adwords&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1040346421%3A1692926034528106 line 206 > injectedScript line 2 > eval line 2918 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.en_US.A809jCSfWIg.es5.O/ck=boq-identity.AccountsSignInUi._z1FK_WFLj0.L.F4.O/am=eRwAITMeYwDxP9X5nnFyGAACAAAAAAAAYBnu/d=1/exm=LEikZe,_b,_r,_tp,byfTOb,lsjVmc/excm=_b,_r,_tp,identifierview/ed=1/wt=2/ujg=1/rs=AOaEmlEpTq0Cx1Bvpq8KTjZg5IyOOvdrdQ/ee=Al0B8:kibjWe;DaIJ8c:iAskyc;EkYFhd:BDnJmb;EmZ2Bf:zr1jrb;Erl4fe:FloWmf;JsbNhc:Xd8iUd;LBgRLc:XVMNvd;Me32dd:MEeYgc;NPKaK:PVlQOd;NSEoX:lazG7b;Oj465e:KG2eXe;Pjplud:EEDORb;QGR0gd:Mlhmy;SMDL4c:K0PMbc;SNUn3:ZwDk9d;UpnZUd:nnwwYc;XdiAjb:Nr4zW;a56pNe:JEfCwb;cEt90b:ws9Tlc;dIoSBb:SpsfSb;eBAeSb:zbML3c;iFQyKf:vfuNJf;io8t5d:yDVVkb;kMFpHd:OTA3Ae;nAFL3:NTMZac;nTuGK:JKNPM;oGtAuc:sOXFj;oSUNyd:K0PMbc;oXZmbc:tUnxGc;pXdRYb:fqEYIb;qddgKe:xQtZb;sP4Vbe:VwDzFe;uY49fb:COQbmf;ul9GGd:VDovNc;vNjB7d:YTxL4;wR5FRb:siKnQd;yxTchf:KUM7Z/m=n73qwf,SCuOPb,IZT63,vfuNJf,UUJqVe,ws9Tlc,siKnQd,STuCOe,njlZCf,XVq9Qb,xUdipf,OTA3Ae,COQbmf,fKUV3e,aurFic,U0aPgd,kibjWe,nnwwYc,ANCJdb,V3dDOb,G0cNrd,zsCYJ,mWLH9d,NOeYWe,O6y8ed,t2srLd,fqEYIb,PrPYRd,MpJwZc,NwH0H,OmgaI,hc6Ubd,AkfuYc,KUM7Z,oLggrd,inNHtf,L1AAkb,XVMNvd,Mlhmy,lwddkf,gychg,EEDORb,SpsfSb,tUnxGc,aW3pY,kmSu5b,EFQ78c,ZfAoz,xQtZb,I6YDgd,N5Lqpc,fgj8Rb,kWgXee,PkV8id,hmHrle,ovKuLd,zbML3c,yDVVkb,zr1jrb,vHEMJe,YHI3We,YTxL4,MbBXlb,i1Z3Ub,bSspM,UmWJEc,KG2eXe,Uas9Hd,lg30w,e3uIRe,zy0vNb,my67ye,fJpY1b,EN3i8d,K0PMbc,EGw7Od,A2sInc,AvtSve,qmdT9,vDwyod,ZUKRxc,xBaz7b,GGodmf,eVCnO,wzQaQb,BDnJmb,LDQI,SUKkyc,b3kMqb, line 109: Script terminated by timeout at:
+Bua@https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.en_US.A809jCSfWIg.es5.O/ck=boq-identity.AccountsSignInUi._z1FK_WFLj0.L.F4.O/am=eRwAITMeYwDxP9X5nnFyGAACAAAAAAAAYBnu/d=1/exm=LEikZe,_b,_r,_tp,byfTOb,lsjVmc/excm=_b,_r,_tp,identifierview/ed=1/wt=2/ujg=1/rs=AOaEmlEpTq0Cx1Bvpq8KTjZg5IyOOvdrdQ/ee=Al0B8:kibjWe;DaIJ8c:iAskyc;EkYFhd:BDnJmb;EmZ2Bf:zr1jrb;Erl4fe:FloWmf;JsbNhc:Xd8iUd;LBgRLc:XVMNvd;Me32dd:MEeYgc;NPKaK:PVlQOd;NSEoX:lazG7b;Oj465e:KG2eXe;Pjplud:EEDORb;QGR0gd:Mlhmy;SMDL4c:K0PMbc;SNUn3:ZwDk9d;UpnZUd:nnwwYc;XdiAjb:Nr4zW;a56pNe:JEfCwb;cEt90b:ws9Tlc;dIoSBb:SpsfSb;eBAeSb:zbML3c;iFQyKf:vfuNJf;io8t5d:yDVVkb;kMFpHd:OTA3Ae;nAFL3:NTMZac;nTuGK:JKNPM;oGtAuc:sOXFj;oSUNyd:K0PMbc;oXZmbc:tUnxGc;pXdRYb:fqEYIb;qddgKe:xQtZb;sP4Vbe:VwDzFe;uY49fb:COQbmf;ul9GGd:VDovNc;vNjB7d:YTxL4;wR5FRb:siKnQd;yxTchf:KUM7Z/m=n73qwf,SCuOPb,IZT63,vfuNJf,UUJqVe,ws9Tlc,siKnQd,STuCOe,njlZCf,XVq9Qb,xUdipf,OTA3Ae,COQbmf,fKUV3e,aurFic,U0aPgd,kibjWe,nnwwYc,ANCJdb,V3dDOb,G0cNrd,zsCYJ,mWLH9d,NOeYWe,O6y8ed,t2srLd,fqEYIb,PrPYRd,MpJwZc,NwH0H,OmgaI,hc6Ubd,AkfuYc,KUM7Z,oLggrd,inNHtf,L1AAkb,XVMNvd,Mlhmy,lwddkf,gychg,EEDORb,SpsfSb,tUnxGc,aW3pY,kmSu5b,EFQ78c,ZfAoz,xQtZb,I6YDgd,N5Lqpc,fgj8Rb,kWgXee,PkV8id,hmHrle,ovKuLd,zbML3c,yDVVkb,zr1jrb,vHEMJe,YHI3We,YTxL4,MbBXlb,i1Z3Ub,bSspM,UmWJEc,KG2eXe,Uas9Hd,lg30w,e3uIRe,zy0vNb,my67ye,fJpY1b,EN3i8d,K0PMbc,EGw7Od,A2sInc,AvtSve,qmdT9,vDwyod,ZUKRxc,xBaz7b,GGodmf,eVCnO,wzQaQb,BDnJmb,LDQI,SUKkyc,b3kMqb:109:447
+yua@https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.en_US.A809jCSfWIg.es5.O/ck=boq-identity.AccountsSignInUi._z1FK_WFLj0.L.F4.O/am=eRwAITMeYwDxP9X5nnFyGAACAAAAAAAAYBnu/d=1/exm=LEikZe,_b,_r,_tp,byfTOb,lsjVmc/excm=_b,_r,_tp,identifierview/ed=1/wt=2/ujg=1/rs=AOaEmlEpTq0Cx1Bvpq8KTjZg5IyOOvdrdQ/ee=Al0B8:kibjWe;DaIJ8c:iAskyc;EkYFhd:BDnJmb;EmZ2Bf:zr1jrb;Erl4fe:FloWmf;JsbNhc:Xd8iUd;LBgRLc:XVMNvd;Me32dd:MEeYgc;NPKaK:PVlQOd;NSEoX:lazG7b;Oj465e:KG2eXe;Pjplud:EEDORb;QGR0gd:Mlhmy;SMDL4c:K0PMbc;SNUn3:ZwDk9d;UpnZUd:nnwwYc;XdiAjb:Nr4zW;a56pNe:JEfCwb;cEt90b:ws9Tlc;dIoSBb:SpsfSb;eBAeSb:zbML3c;iFQyKf:vfuNJf;io8t5d:yDVVkb;kMFpHd:OTA3Ae;nAFL3:NTMZac;nTuGK:JKNPM;oGtAuc:sOXFj;oSUNyd:K0PMbc;oXZmbc:tUnxGc;pXdRYb:fqEYIb;qddgKe:xQtZb;sP4Vbe:VwDzFe;uY49fb:COQbmf;ul9GGd:VDovNc;vNjB7d:YTxL4;wR5FRb:siKnQd;yxTchf:KUM7Z/m=n73qwf,SCuOPb,IZT63,vfuNJf,UUJqVe,ws9Tlc,siKnQd,STuCOe,njlZCf,XVq9Qb,xUdipf,OTA3Ae,COQbmf,fKUV3e,aurFic,U0aPgd,kibjWe,nnwwYc,ANCJdb,V3dDOb,G0cNrd,zsCYJ,mWLH9d,NOeYWe,O6y8ed,t2srLd,fqEYIb,PrPYRd,MpJwZc,NwH0H,OmgaI,hc6Ubd,AkfuYc,KUM7Z,oLggrd,inNHtf,L1AAkb,XVMNvd,Mlhmy,lwddkf,gychg,EEDORb,SpsfSb,tUnxGc,aW3pY,kmSu5b,EFQ78c,ZfAoz,xQtZb,I6YDgd,N5Lqpc,fgj8Rb,kWgXee,PkV8id,hmHrle,ovKuLd,zbML3c,yDVVkb,zr1jrb,vHEMJe,YHI3We,YTxL4,MbBXlb,i1Z3Ub,bSspM,UmWJEc,KG2eXe,Uas9Hd,lg30w,e3uIRe,zy0vNb,my67ye,fJpY1b,EN3i8d,K0PMbc,EGw7Od,A2sInc,AvtSve,qmdT9,vDwyod,ZUKRxc,xBaz7b,GGodmf,eVCnO,wzQaQb,BDnJmb,LDQI,SUKkyc,b3kMqb:107:283
+_.Yy.prototype.Bb@https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.en_US.A809jCSfWIg.es5.O/ck=boq-identity.AccountsSignInUi._z1FK_WFLj0.L.F4.O/am=eRwAITMeYwDxP9X5nnFyGAACAAAAAAAAYBnu/d=1/exm=LEikZe,_b,_r,_tp,byfTOb,lsjVmc/excm=_b,_r,_tp,identifierview/ed=1/wt=2/ujg=1/rs=AOaEmlEpTq0Cx1Bvpq8KTjZg5IyOOvdrdQ/ee=Al0B8:kibjWe;DaIJ8c:iAskyc;EkYFhd:BDnJmb;EmZ2Bf:zr1jrb;Erl4fe:FloWmf;JsbNhc:Xd8iUd;LBgRLc:XVMNvd;Me32dd:MEeYgc;NPKaK:PVlQOd;NSEoX:lazG7b;Oj465e:KG2eXe;Pjplud:EEDORb;QGR0gd:Mlhmy;SMDL4c:K0PMbc;SNUn3:ZwDk9d;UpnZUd:nnwwYc;XdiAjb:Nr4zW;a56pNe:JEfCwb;cEt90b:ws9Tlc;dIoSBb:SpsfSb;eBAeSb:zbML3c;iFQyKf:vfuNJf;io8t5d:yDVVkb;kMFpHd:OTA3Ae;nAFL3:NTMZac;nTuGK:JKNPM;oGtAuc:sOXFj;oSUNyd:K0PMbc;oXZmbc:tUnxGc;pXdRYb:fqEYIb;qddgKe:xQtZb;sP4Vbe:VwDzFe;uY49fb:COQbmf;ul9GGd:VDovNc;vNjB7d:YTxL4;wR5FRb:siKnQd;yxTchf:KUM7Z/m=n73qwf,SCuOPb,IZT63,vfuNJf,UUJqVe,ws9Tlc,siKnQd,STuCOe,njlZCf,XVq9Qb,xUdipf,OTA3Ae,COQbmf,fKUV3e,aurFic,U0aPgd,kibjWe,nnwwYc,ANCJdb,V3dDOb,G0cNrd,zsCYJ,mWLH9d,NOeYWe,O6y8ed,t2srLd,fqEYIb,PrPYRd,MpJwZc,NwH0H,OmgaI,hc6Ubd,AkfuYc,KUM7Z,oLggrd,inNHtf,L1AAkb,XVMNvd,Mlhmy,lwddkf,gychg,EEDORb,SpsfSb,tUnxGc,aW3pY,kmSu5b,EFQ78c,ZfAoz,xQtZb,I6YDgd,N5Lqpc,fgj8Rb,kWgXee,PkV8id,hmHrle,ovKuLd,zbML3c,yDVVkb,zr1jrb,vHEMJe,YHI3We,YTxL4,MbBXlb,i1Z3Ub,bSspM,UmWJEc,KG2eXe,Uas9Hd,lg30w,e3uIRe,zy0vNb,my67ye,fJpY1b,EN3i8d,K0PMbc,EGw7Od,A2sInc,AvtSve,qmdT9,vDwyod,ZUKRxc,xBaz7b,GGodmf,eVCnO,wzQaQb,BDnJmb,LDQI,SUKkyc,b3kMqb:107:187
+_.Yy/<@https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.en_US.A809jCSfWIg.es5.O/ck=boq-identity.AccountsSignInUi._z1FK_WFLj0.L.F4.O/am=eRwAITMeYwDxP9X5nnFyGAACAAAAAAAAYBnu/d=1/exm=LEikZe,_b,_r,_tp,byfTOb,lsjVmc/excm=_b,_r,_tp,identifierview/ed=1/wt=2/ujg=1/rs=AOaEmlEpTq0Cx1Bvpq8KTjZg5IyOOvdrdQ/ee=Al0B8:kibjWe;DaIJ8c:iAskyc;EkYFhd:BDnJmb;EmZ2Bf:zr1jrb;Erl4fe:FloWmf;JsbNhc:Xd8iUd;LBgRLc:XVMNvd;Me32dd:MEeYgc;NPKaK:PVlQOd;NSEoX:lazG7b;Oj465e:KG2eXe;Pjplud:EEDORb;QGR0gd:Mlhmy;SMDL4c:K0PMbc;SNUn3:ZwDk9d;UpnZUd:nnwwYc;XdiAjb:Nr4zW;a56pNe:JEfCwb;cEt90b:ws9Tlc;dIoSBb:SpsfSb;eBAeSb:zbML3c;iFQyKf:vfuNJf;io8t5d:yDVVkb;kMFpHd:OTA3Ae;nAFL3:NTMZac;nTuGK:JKNPM;oGtAuc:sOXFj;oSUNyd:K0PMbc;oXZmbc:tUnxGc;pXdRYb:fqEYIb;qddgKe:xQtZb;sP4Vbe:VwDzFe;uY49fb:COQbmf;ul9GGd:VDovNc;vNjB7d:YTxL4;wR5FRb:siKnQd;yxTchf:KUM7Z/m=n73qwf,SCuOPb,IZT63,vfuNJf,UUJqVe,ws9Tlc,siKnQd,STuCOe,njlZCf,XVq9Qb,xUdipf,OTA3Ae,COQbmf,fKUV3e,aurFic,U0aPgd,kibjWe,nnwwYc,ANCJdb,V3dDOb,G0cNrd,zsCYJ,mWLH9d,NOeYWe,O6y8ed,t2srLd,fqEYIb,PrPYRd,MpJwZc,NwH0H,OmgaI,hc6Ubd,AkfuYc,KUM7Z,oLggrd,inNHtf,L1AAkb,XVMNvd,Mlhmy,lwddkf,gychg,EEDORb,SpsfSb,tUnxGc,aW3pY,kmSu5b,EFQ78c,ZfAoz,xQtZb,I6YDgd,N5Lqpc,fgj8Rb,kWgXee,PkV8id,hmHrle,ovKuLd,zbML3c,yDVVkb,zr1jrb,vHEMJe,YHI3We,YTxL4,MbBXlb,i1Z3Ub,bSspM,UmWJEc,KG2eXe,Uas9Hd,lg30w,e3uIRe,zy0vNb,my67ye,fJpY1b,EN3i8d,K0PMbc,EGw7Od,A2sInc,AvtSve,qmdT9,vDwyod,ZUKRxc,xBaz7b,GGodmf,eVCnO,wzQaQb,BDnJmb,LDQI,SUKkyc,b3kMqb:101:404
+el@https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.en_US.A809jCSfWIg.es5.O/am=eRwAITMeYwDxP9X5nnFyGAACAAAAAAAAYBnu/d=1/excm=_b,_r,_tp,identifierview/ed=1/dg=0/wt=2/ujg=1/rs=AOaEmlEy_eLgtQsoppdp25pmByMoH4y7Rw/m=_b,_tp,_r:256:114
+c@https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.en_US.A809jCSfWIg.es5.O/am=eRwAITMeYwDxP9X5nnFyGAACAAAAAAAAYBnu/d=1/excm=_b,_r,_tp,identifierview/ed=1/dg=0/wt=2/ujg=1/rs=AOaEmlEy_eLgtQsoppdp25pmByMoH4y7Rw/m=_b,_tp,_r:264:253
+b@https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.en_US.A809jCSfWIg.es5.O/am=eRwAITMeYwDxP9X5nnFyGAACAAAAAAAAYBnu/d=1/excm=_b,_r,_tp,identifierview/ed=1/dg=0/wt=2/ujg=1/rs=AOaEmlEy_eLgtQsoppdp25pmByMoH4y7Rw/m=_b,_tp,_r:254:48
+
+1692926054449	Marionette	INFO	Stopped listening on port 53148
+Dynamically enable window occlusion 1
+[Parent 23644, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 34292, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 23644, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 34292, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 23644, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 34292, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 23644, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 34292, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 23644, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 34292, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 23644, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 34292, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1692926999799	geckodriver	INFO	Listening on 127.0.0.1:53428
+1692927002910	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53429" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofilevB5jMF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692927003599	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692927003799	Marionette	INFO	Listening on port 53436
+Read port: 53436
+WebDriver BiDi listening on ws://127.0.0.1:53429
+1692927003950	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53429/devtools/browser/f6e1bf39-259c-4577-824c-59fd1265687d
+1692927011280	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:221:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:180:31
+[Parent 38756, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 14584, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3DALL-vi-et-g-aw-c-home-awhp_xin1_signin%21o2&followup=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3DALL-vi-et-g-aw-c-home-awhp_xin1_signin%21o2&ifkv=AXo7B7W5DJcbP1yk8ujqExMQyC4WYEIPk0pZma7X2R3gEAuX-17npvK5mOzQ78KZH75EIEzb4NPgDg&osid=1&passive=1209600&service=adwords&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S688860739%3A1692927022546914 line 206 > injectedScript line 2 > eval line 3956 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.en_US.A809jCSfWIg.es5.O/ck=boq-identity.AccountsSignInUi._z1FK_WFLj0.L.F4.O/am=eRwAIXMeYwDxP9X5nnFyGAACAAAAAAAAYBnu/d=1/exm=A2sInc,ANCJdb,AkfuYc,AvtSve,BDnJmb,COQbmf,Ctsu,EEDORb,EFQ78c,EGw7Od,EN3i8d,G0cNrd,GGodmf,I6YDgd,IZ1fbc,IZT63,K0PMbc,KG2eXe,KUM7Z,L1AAkb,LDQI,LEikZe,MbBXlb,Mlhmy,MpJwZc,N5Lqpc,NOeYWe,NTMZac,NwH0H,O6y8ed,OTA3Ae,OmgaI,PHUIyb,PkV8id,PrPYRd,RAnnUd,Rusgnf,SCuOPb,STuCOe,SUKkyc,SpsfSb,SzsEAf,U0aPgd,UPKV3d,UUJqVe,Uas9Hd,UmWJEc,V3dDOb,W2YXuc,XVMNvd,XVq9Qb,YHI3We,YTxL4,ZUKRxc,ZfAoz,_b,_r,_tp,aW3pY,aurFic,b3kMqb,bPkrc,bSspM,bTi8wc,byfTOb,e3uIRe,eVCnO,fJpY1b,fKUV3e,fgj8Rb,fqEYIb,gychg,hc6Ubd,hmHrle,i1Z3Ub,i5H9N,i5dxUd,inNHtf,kSPLL,kWgXee,kibjWe,kmSu5b,lg30w,lsjVmc,ltDFwf,lwddkf,m9oV,mWLH9d,my67ye,n73qwf,njlZCf,nnwwYc,oLggrd,ovKuLd,pxq3x,qNG0Fc,qPfo0c,qmdT9,siKnQd,soHxf,t2srLd,tUnxGc,uu7UOe,vDwyod,vHEMJe,vfuNJf,wGM7Jc,ws9Tlc,wzQaQb,xBaz7b,xQtZb,xUdipf,yDVVkb,yRXbo,ywOR5c,zbML3c,zr1jrb,zsCYJ,zy0vNb/excm=_b,_r,_tp,identifierview/ed=1/wt=2/ujg=1/rs=AOaEmlFiD7urmSs3sJJJUXnjkHGPU4qBZQ/ee=Al0B8:kibjWe;DaIJ8c:iAskyc;EkYFhd:BDnJmb;EmZ2Bf:zr1jrb;Erl4fe:FloWmf;JsbNhc:Xd8iUd;LBgRLc:XVMNvd;Me32dd:MEeYgc;NPKaK:PVlQOd;NSEoX:lazG7b;Oj465e:KG2eXe;Pjplud:EEDORb;QGR0gd:Mlhmy;SMDL4c:K0PMbc;SNUn3:ZwDk9d;UpnZUd:nnwwYc;XdiAjb:Nr4zW;a56pNe:JEfCwb;cEt90b:ws9Tlc;dIoSBb:SpsfSb;eBAeSb:zbML3c;iFQyKf:vfuNJf;io8t5d:yDVVkb;kMFpHd:OTA3Ae;nAFL3:NTMZac;nTuGK:JKNPM;oGtAuc:sOXFj;oSUNyd:K0PMbc;oXZmbc:tUnxGc;pXdRYb:fqEYIb;qddgKe:xQtZb;sP4Vbe:VwDzFe;uY49fb:COQbmf;ul9GGd:VDovNc;vNjB7d:YTxL4;wR5FRb:siKnQd;yxTchf:KUM7Z/m=RqjULd, line 19: Script terminated by timeout at:
+Gva/</b<@https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.en_US.A809jCSfWIg.es5.O/ck=boq-identity.AccountsSignInUi._z1FK_WFLj0.L.F4.O/am=eRwAIXMeYwDxP9X5nnFyGAACAAAAAAAAYBnu/d=1/exm=A2sInc,ANCJdb,AkfuYc,AvtSve,BDnJmb,COQbmf,Ctsu,EEDORb,EFQ78c,EGw7Od,EN3i8d,G0cNrd,GGodmf,I6YDgd,IZ1fbc,IZT63,K0PMbc,KG2eXe,KUM7Z,L1AAkb,LDQI,LEikZe,MbBXlb,Mlhmy,MpJwZc,N5Lqpc,NOeYWe,NTMZac,NwH0H,O6y8ed,OTA3Ae,OmgaI,PHUIyb,PkV8id,PrPYRd,RAnnUd,Rusgnf,SCuOPb,STuCOe,SUKkyc,SpsfSb,SzsEAf,U0aPgd,UPKV3d,UUJqVe,Uas9Hd,UmWJEc,V3dDOb,W2YXuc,XVMNvd,XVq9Qb,YHI3We,YTxL4,ZUKRxc,ZfAoz,_b,_r,_tp,aW3pY,aurFic,b3kMqb,bPkrc,bSspM,bTi8wc,byfTOb,e3uIRe,eVCnO,fJpY1b,fKUV3e,fgj8Rb,fqEYIb,gychg,hc6Ubd,hmHrle,i1Z3Ub,i5H9N,i5dxUd,inNHtf,kSPLL,kWgXee,kibjWe,kmSu5b,lg30w,lsjVmc,ltDFwf,lwddkf,m9oV,mWLH9d,my67ye,n73qwf,njlZCf,nnwwYc,oLggrd,ovKuLd,pxq3x,qNG0Fc,qPfo0c,qmdT9,siKnQd,soHxf,t2srLd,tUnxGc,uu7UOe,vDwyod,vHEMJe,vfuNJf,wGM7Jc,ws9Tlc,wzQaQb,xBaz7b,xQtZb,xUdipf,yDVVkb,yRXbo,ywOR5c,zbML3c,zr1jrb,zsCYJ,zy0vNb/excm=_b,_r,_tp,identifierview/ed=1/wt=2/ujg=1/rs=AOaEmlFiD7urmSs3sJJJUXnjkHGPU4qBZQ/ee=Al0B8:kibjWe;DaIJ8c:iAskyc;EkYFhd:BDnJmb;EmZ2Bf:zr1jrb;Erl4fe:FloWmf;JsbNhc:Xd8iUd;LBgRLc:XVMNvd;Me32dd:MEeYgc;NPKaK:PVlQOd;NSEoX:lazG7b;Oj465e:KG2eXe;Pjplud:EEDORb;QGR0gd:Mlhmy;SMDL4c:K0PMbc;SNUn3:ZwDk9d;UpnZUd:nnwwYc;XdiAjb:Nr4zW;a56pNe:JEfCwb;cEt90b:ws9Tlc;dIoSBb:SpsfSb;eBAeSb:zbML3c;iFQyKf:vfuNJf;io8t5d:yDVVkb;kMFpHd:OTA3Ae;nAFL3:NTMZac;nTuGK:JKNPM;oGtAuc:sOXFj;oSUNyd:K0PMbc;oXZmbc:tUnxGc;pXdRYb:fqEYIb;qddgKe:xQtZb;sP4Vbe:VwDzFe;uY49fb:COQbmf;ul9GGd:VDovNc;vNjB7d:YTxL4;wR5FRb:siKnQd;yxTchf:KUM7Z/m=RqjULd:19:380
+el@https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.en_US.A809jCSfWIg.es5.O/am=eRwAIXMeYwDxP9X5nnFyGAACAAAAAAAAYBnu/d=1/excm=_b,_r,_tp,identifierview/ed=1/dg=0/wt=2/ujg=1/rs=AOaEmlG4T4Y2OfDWACn0eCnkLc0ZRaZG3g/m=_b,_tp,_r:256:114
+c@https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.en_US.A809jCSfWIg.es5.O/am=eRwAIXMeYwDxP9X5nnFyGAACAAAAAAAAYBnu/d=1/excm=_b,_r,_tp,identifierview/ed=1/dg=0/wt=2/ujg=1/rs=AOaEmlG4T4Y2OfDWACn0eCnkLc0ZRaZG3g/m=_b,_tp,_r:264:253
+b@https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.en_US.A809jCSfWIg.es5.O/am=eRwAIXMeYwDxP9X5nnFyGAACAAAAAAAAYBnu/d=1/excm=_b,_r,_tp,identifierview/ed=1/dg=0/wt=2/ujg=1/rs=AOaEmlG4T4Y2OfDWACn0eCnkLc0ZRaZG3g/m=_b,_tp,_r:254:48
+
+1692935910522	Marionette	INFO	Stopped listening on port 53436
+Dynamically enable window occlusion 1
+[Parent 38756, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 14584, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 38756, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 14584, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 38756, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 14584, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 38756, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 14584, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 38756, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 14584, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1693188657733	geckodriver	INFO	Listening on 127.0.0.1:53321
+1693188660824	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53322" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileRQUtgr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693188661312	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693188661472	Marionette	INFO	Listening on port 53330
+WebDriver BiDi listening on ws://127.0.0.1:53322
+Read port: 53330
+1693188661679	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53322/devtools/browser/aa975fbf-7e4b-4dd0-b02c-e0e69bf3582d
+[Parent 24468, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 33924, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3DALL-vi-et-g-aw-c-home-awhp_xin1_signin%21o2&followup=https%3A%2F%2Fads.google.com%2Fnav%2Flogin%3Fsubid%3DALL-vi-et-g-aw-c-home-awhp_xin1_signin%21o2&ifkv=AXo7B7VkEbeyRJwIgqcHygo1ib99H7CTzk0CvR_BeEvIBSjKBrjpmUv75dD0g7yWc3LRVvShX_v5jw&osid=1&passive=1209600&service=adwords&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1157140331%3A1693188682915017 line 206 > injectedScript line 2 > eval line 1811 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2Fsearch%3Fclient%3Dfirefox-b-d%26q%3Dgmail&ec=GAZAAQ&hl=vi&ifkv=AXo7B7VzwIzyqI743EcjDKKxnxBwihLkiX7d3v5B1P3w3ASe3h6X9V_6oOFJrsJB5LiavNLXTiGRBg&passive=true&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-100480837%3A1693189368806146 line 208 > injectedScript line 2 > eval line 4320 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2F&ec=GAZAmgQ&hl=vi&ifkv=AXo7B7WBrAchvfsnT5l_LxMTr_OlOTCzflKmbqEXYuCygdx3nFOvCFlS64JZ3v18aN8jMzL3Q_BG&passive=true&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1963425710%3A1693189430176081 line 4 > injectedScript line 2 > eval line 6510 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2F&flowEntry=ServiceLogin&flowName=GlifWebSignIn&hl=vi&ifkv=AXo7B7VUErC8jyWbeIHZgvWy3EyUTJ7_OrirRzGSPjfw9kOkJe7P098hf1aBHymP_kYqoTGN8sM3&dsh=S-1996039536%3A1693189447018240 line 4 > injectedScript line 2 > eval, line 2694: Script terminated by timeout at:
+oA@https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2F&flowEntry=ServiceLogin&flowName=GlifWebSignIn&hl=vi&ifkv=AXo7B7VUErC8jyWbeIHZgvWy3EyUTJ7_OrirRzGSPjfw9kOkJe7P098hf1aBHymP_kYqoTGN8sM3&dsh=S-1996039536%3A1693189447018240 line 4 > injectedScript line 2 > eval:2694:17080
+XT@https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2F&flowEntry=ServiceLogin&flowName=GlifWebSignIn&hl=vi&ifkv=AXo7B7VUErC8jyWbeIHZgvWy3EyUTJ7_OrirRzGSPjfw9kOkJe7P098hf1aBHymP_kYqoTGN8sM3&dsh=S-1996039536%3A1693189447018240 line 4 > injectedScript line 2 > eval:2694:5904
+w@https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2F&flowEntry=ServiceLogin&flowName=GlifWebSignIn&hl=vi&ifkv=AXo7B7VUErC8jyWbeIHZgvWy3EyUTJ7_OrirRzGSPjfw9kOkJe7P098hf1aBHymP_kYqoTGN8sM3&dsh=S-1996039536%3A1693189447018240 line 4 > injectedScript line 2 > eval:2694:12735
+G@https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2F&flowEntry=ServiceLogin&flowName=GlifWebSignIn&hl=vi&ifkv=AXo7B7VUErC8jyWbeIHZgvWy3EyUTJ7_OrirRzGSPjfw9kOkJe7P098hf1aBHymP_kYqoTGN8sM3&dsh=S-1996039536%3A1693189447018240 line 4 > injectedScript line 2 > eval line 2694 > eval line 1 > eval line 1 > eval:1:611
+c@https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.vi.ibQ0D0i2DA8.es5.O/am=eRwAIbMfYwDxP9X5nnFyGAAAAAAAAAAAYBnu/d=1/excm=_b,_r,_tp,identifierview/ed=1/dg=0/wt=2/ujg=1/rs=AOaEmlGUjVncmx_agULcQr21iBkXnpSrAQ/m=_b,_tp,_r:264:253
+
+[Parent 24468, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 33924, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1693190301498	Marionette	INFO	Stopped listening on port 53330
+Dynamically enable window occlusion 1
+[Parent 24468, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 33924, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 24468, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 33924, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 24468, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 33924, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 24468, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 33924, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 24468, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 33924, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 24468, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 33924, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 24468, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 33924, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 24468, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 33924, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1693196771714	geckodriver	INFO	Listening on 127.0.0.1:58301
+1693196774786	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58302" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofiled1b5r3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693196775199	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693196775290	Marionette	INFO	Listening on port 58314
+WebDriver BiDi listening on ws://127.0.0.1:58302
+Read port: 58314
+1693196775648	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58302/devtools/browser/e0f0a435-d027-4aff-8164-e25c2ec9b511
+[Parent 10084, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 19024, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1693196787819	Marionette	INFO	Stopped listening on port 58314
+Dynamically enable window occlusion 1
+[Parent 10084, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 19024, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 10084, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 19024, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 10084, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 19024, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 10084, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 19024, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 10084, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 19024, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 10084, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 19024, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1693196816680	geckodriver	INFO	Listening on 127.0.0.1:58413
+1693196824091	geckodriver	INFO	Listening on 127.0.0.1:58421
+1693196827168	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58422" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofile8iKOpX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693196827473	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693196827546	Marionette	INFO	Listening on port 58433
+WebDriver BiDi listening on ws://127.0.0.1:58422
+Read port: 58433
+1693196827803	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58422/devtools/browser/aa2e528f-b0a6-4d23-bf15-302d5a36aba5
+[Parent 28892, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 32776, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.en_US.A809jCSfWIg.es5.O/ck=boq-identity.AccountsSignInUi._z1FK_WFLj0.L.F4.O/am=eRwAIXMeYwDxP9X5nnFyGAACAAAAAAAAYBnu/d=1/exm=A2sInc,ANCJdb,AkfuYc,AvtSve,BDnJmb,COQbmf,Ctsu,EEDORb,EFQ78c,EGw7Od,EN3i8d,G0cNrd,GGodmf,I6YDgd,IZ1fbc,IZT63,K0PMbc,KG2eXe,KUM7Z,L1AAkb,LDQI,LEikZe,MbBXlb,Mlhmy,MpJwZc,N5Lqpc,NOeYWe,NTMZac,NwH0H,O6y8ed,OTA3Ae,OmgaI,PHUIyb,PkV8id,PrPYRd,RAnnUd,Rusgnf,SCuOPb,STuCOe,SUKkyc,SpsfSb,SzsEAf,U0aPgd,UPKV3d,UUJqVe,Uas9Hd,UmWJEc,V3dDOb,W2YXuc,XVMNvd,XVq9Qb,YHI3We,YTxL4,ZUKRxc,ZfAoz,_b,_r,_tp,aW3pY,aurFic,b3kMqb,bPkrc,bSspM,bTi8wc,byfTOb,e3uIRe,eVCnO,fJpY1b,fKUV3e,fgj8Rb,fqEYIb,gychg,hc6Ubd,hmHrle,i1Z3Ub,i5H9N,i5dxUd,inNHtf,kSPLL,kWgXee,kibjWe,kmSu5b,lg30w,lsjVmc,ltDFwf,lwddkf,m9oV,mWLH9d,my67ye,n73qwf,njlZCf,nnwwYc,oLggrd,ovKuLd,pxq3x,qNG0Fc,qPfo0c,qmdT9,siKnQd,soHxf,t2srLd,tUnxGc,uu7UOe,vDwyod,vHEMJe,vfuNJf,wGM7Jc,ws9Tlc,wzQaQb,xBaz7b,xQtZb,xUdipf,yDVVkb,yRXbo,ywOR5c,zbML3c,zr1jrb,zsCYJ,zy0vNb/excm=_b,_r,_tp,identifierview/ed=1/wt=2/ujg=1/rs=AOaEmlFiD7urmSs3sJJJUXnjkHGPU4qBZQ/ee=Al0B8:kibjWe;DaIJ8c:iAskyc;EkYFhd:BDnJmb;EmZ2Bf:zr1jrb;Erl4fe:FloWmf;JsbNhc:Xd8iUd;LBgRLc:XVMNvd;Me32dd:MEeYgc;NPKaK:PVlQOd;NSEoX:lazG7b;Oj465e:KG2eXe;Pjplud:EEDORb;QGR0gd:Mlhmy;SMDL4c:K0PMbc;SNUn3:ZwDk9d;UpnZUd:nnwwYc;XdiAjb:Nr4zW;a56pNe:JEfCwb;cEt90b:ws9Tlc;dIoSBb:SpsfSb;eBAeSb:zbML3c;iFQyKf:vfuNJf;io8t5d:yDVVkb;kMFpHd:OTA3Ae;nAFL3:NTMZac;nTuGK:JKNPM;oGtAuc:sOXFj;oSUNyd:K0PMbc;oXZmbc:tUnxGc;pXdRYb:fqEYIb;qddgKe:xQtZb;sP4Vbe:VwDzFe;uY49fb:COQbmf;ul9GGd:VDovNc;vNjB7d:YTxL4;wR5FRb:siKnQd;yxTchf:KUM7Z/m=RqjULd, line 19: Script terminated by timeout at:
+Gva/</b<@https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.en_US.A809jCSfWIg.es5.O/ck=boq-identity.AccountsSignInUi._z1FK_WFLj0.L.F4.O/am=eRwAIXMeYwDxP9X5nnFyGAACAAAAAAAAYBnu/d=1/exm=A2sInc,ANCJdb,AkfuYc,AvtSve,BDnJmb,COQbmf,Ctsu,EEDORb,EFQ78c,EGw7Od,EN3i8d,G0cNrd,GGodmf,I6YDgd,IZ1fbc,IZT63,K0PMbc,KG2eXe,KUM7Z,L1AAkb,LDQI,LEikZe,MbBXlb,Mlhmy,MpJwZc,N5Lqpc,NOeYWe,NTMZac,NwH0H,O6y8ed,OTA3Ae,OmgaI,PHUIyb,PkV8id,PrPYRd,RAnnUd,Rusgnf,SCuOPb,STuCOe,SUKkyc,SpsfSb,SzsEAf,U0aPgd,UPKV3d,UUJqVe,Uas9Hd,UmWJEc,V3dDOb,W2YXuc,XVMNvd,XVq9Qb,YHI3We,YTxL4,ZUKRxc,ZfAoz,_b,_r,_tp,aW3pY,aurFic,b3kMqb,bPkrc,bSspM,bTi8wc,byfTOb,e3uIRe,eVCnO,fJpY1b,fKUV3e,fgj8Rb,fqEYIb,gychg,hc6Ubd,hmHrle,i1Z3Ub,i5H9N,i5dxUd,inNHtf,kSPLL,kWgXee,kibjWe,kmSu5b,lg30w,lsjVmc,ltDFwf,lwddkf,m9oV,mWLH9d,my67ye,n73qwf,njlZCf,nnwwYc,oLggrd,ovKuLd,pxq3x,qNG0Fc,qPfo0c,qmdT9,siKnQd,soHxf,t2srLd,tUnxGc,uu7UOe,vDwyod,vHEMJe,vfuNJf,wGM7Jc,ws9Tlc,wzQaQb,xBaz7b,xQtZb,xUdipf,yDVVkb,yRXbo,ywOR5c,zbML3c,zr1jrb,zsCYJ,zy0vNb/excm=_b,_r,_tp,identifierview/ed=1/wt=2/ujg=1/rs=AOaEmlFiD7urmSs3sJJJUXnjkHGPU4qBZQ/ee=Al0B8:kibjWe;DaIJ8c:iAskyc;EkYFhd:BDnJmb;EmZ2Bf:zr1jrb;Erl4fe:FloWmf;JsbNhc:Xd8iUd;LBgRLc:XVMNvd;Me32dd:MEeYgc;NPKaK:PVlQOd;NSEoX:lazG7b;Oj465e:KG2eXe;Pjplud:EEDORb;QGR0gd:Mlhmy;SMDL4c:K0PMbc;SNUn3:ZwDk9d;UpnZUd:nnwwYc;XdiAjb:Nr4zW;a56pNe:JEfCwb;cEt90b:ws9Tlc;dIoSBb:SpsfSb;eBAeSb:zbML3c;iFQyKf:vfuNJf;io8t5d:yDVVkb;kMFpHd:OTA3Ae;nAFL3:NTMZac;nTuGK:JKNPM;oGtAuc:sOXFj;oSUNyd:K0PMbc;oXZmbc:tUnxGc;pXdRYb:fqEYIb;qddgKe:xQtZb;sP4Vbe:VwDzFe;uY49fb:COQbmf;ul9GGd:VDovNc;vNjB7d:YTxL4;wR5FRb:siKnQd;yxTchf:KUM7Z/m=RqjULd:19:425
+el@https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.en_US.A809jCSfWIg.es5.O/am=eRwAIXMeYwDxP9X5nnFyGAACAAAAAAAAYBnu/d=1/excm=_b,_r,_tp,identifierview/ed=1/dg=0/wt=2/ujg=1/rs=AOaEmlG4T4Y2OfDWACn0eCnkLc0ZRaZG3g/m=_b,_tp,_r:256:114
+c@https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.en_US.A809jCSfWIg.es5.O/am=eRwAIXMeYwDxP9X5nnFyGAACAAAAAAAAYBnu/d=1/excm=_b,_r,_tp,identifierview/ed=1/dg=0/wt=2/ujg=1/rs=AOaEmlG4T4Y2OfDWACn0eCnkLc0ZRaZG3g/m=_b,_tp,_r:264:253
+b@https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.en_US.A809jCSfWIg.es5.O/am=eRwAIXMeYwDxP9X5nnFyGAACAAAAAAAAYBnu/d=1/excm=_b,_r,_tp,identifierview/ed=1/dg=0/wt=2/ujg=1/rs=AOaEmlG4T4Y2OfDWACn0eCnkLc0ZRaZG3g/m=_b,_tp,_r:254:48
+
+1693198288810	Marionette	INFO	Stopped listening on port 58433
+Dynamically enable window occlusion 1
+[Parent 28892, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 32776, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 28892, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 32776, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 28892, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 32776, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 28892, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 32776, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 28892, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 32776, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 28892, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 32776, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
