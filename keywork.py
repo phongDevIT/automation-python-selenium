@@ -35,7 +35,7 @@ try:
         print("successfully access google ads")
         time.sleep(10)
         sb.click('//*[@id="navigation.tools"]/div/a/rail-item', timeout=15, delay=1)
-        print("click success 1")
+        # print("click success 1")
         sb.click(
             "/html/body/div[1]/root/div/div[1]/div[2]/div/div[3]/div/div/awsm-child-content/div[1]/div[2]/kp-root/div/div/view-loader[2]/splash-view/div/div/div[1]/splash-cards/div/div[1]",
             timeout=15,
@@ -46,8 +46,8 @@ try:
         response = requests.get(url)
         data = response.json()
         keywords = list(data.values())
-        final = []
-        for id, keyword in  data.items():
+        
+        for id, keyword in data.items():
             print(keyword)
             input_xpath = "/html/body/div[1]/root/div/div[1]/div[2]/div/div[3]/div/div/awsm-child-content/div[1]/div[2]/kp-root/div/div/view-loader[2]/splash-view/div/div/div[1]/splash-cards/div/div[1]/div[2]/focus-trap/div[2]/div[1]/div/div/split-ideas-input-panel/div/div[1]/div[1]/search-chips-selector/div/multi-suggest-input/div/div[1]/material-chips/div/div/input"
             input_element = sb.wait_for_element_present(input_xpath, timeout=10)
@@ -62,18 +62,17 @@ try:
                 timeout=5,
                 delay=1,
             )
-            print("input success")
+            # print("input success")
             time.sleep(5)
             try: 
                 sb.click(
                     "/html/body/div[1]/root/div/div[1]/div[2]/div/div[3]/div/div/awsm-child-content/div[1]/div/kp-root/div/div/view-loader[2]/combined-ideas-view/ideas-view/div/div/tableview/div[6]/ess-table/ess-particle-table/div[1]/div/div[2]/div[3]",
                     timeout=5,
                     delay=1,
-
                 )
                 try:
                     
-                    print("input success")
+                    # print("input success")
                     full_xpath = "/html/body/div[1]/root/div/div[1]/div[2]/div/div[3]/div/div/awsm-child-content/div[1]/div[2]/kp-root/div/div/view-loader[2]/combined-ideas-view/ideas-view/div/div/tableview/div[6]/ess-table/ess-particle-table/div[1]/div/div[2]/div[3]"
                     row_element = sb.wait_for_element_present(full_xpath, timeout=10)
 
@@ -91,46 +90,22 @@ try:
 
                     bid_min_value = html.unescape(bid_min_value)
                     bid_max_value = html.unescape(bid_max_value)
-                    # bid_min_value = bid_min_value.replace("₫", "").replace("", "")
-                    # bid_max_value = bid_max_value.replace("₫", "").replace("", "")
+                    
                     bid_min_value = bid_min_value.replace("₫", "").strip()
                     bid_max_value = bid_max_value.replace("₫", "").strip()
-                    data = {"Giá thấp": bid_min_value, "Giá cao": bid_max_value}
+                    price = {"Giá thấp": bid_min_value, "Giá cao": bid_max_value}
                     json_data = json.dumps(data, ensure_ascii=False, indent=4)
-                    print(f"\n{json_data}")
+                    # final = []
+                    # print(f"\n{json_data}")
                     # value = [id ,keyword ,data]
-                    value = {"id": id, "keyword": keyword, "Price": data}
+                    value = {"id": id, "keyword": keyword, "Price": price}
                     print(value)
-                    final.append(value)
+                    # final.append(value)
+                    # print(str(final))
                     
-                    #POST
-                    # requests.post('https://click.mmolovers.com/administrator/api/post_keyword', json.dumps(final))
-                    response = requests.post('https://click.mmolovers.com/administrator/api/post_keyword', json=value)
-                    if response.status_code == 200:
-                        api_response = response.json()
-                        if api_response['status'] == 1:
-                            print("Success: Data pushed to API")
-                        else:
-                            print("API Error: Data not pushed. Response:", api_response)
-                    else:
-                        print("API Error: Status Code", response.status_code)
-                        print("Response Content:", response.text)
-                        
-                    # get all tất cả keyword
-                    get_keyword_api_url = "https://click.mmolovers.com/administrator/api/get_keyword"
-                    get_keyword_response = requests.get(get_keyword_api_url)
-                    get_keyword_data = get_keyword_response.json()
-
-                    for pushed_data in final:
-                        pushed_id = pushed_data["id"]
-                        pushed_keyword = pushed_data["keyword"]
-                        pushed_price = pushed_data["Price"]
-
-                        if str(pushed_id) in get_keyword_data and get_keyword_data[str(pushed_id)] == pushed_keyword:
-                            print(f"Data for ID {pushed_id} and Keyword {pushed_keyword} is successfully pushed and retrieved from API.")
-                            print("Pushed Price:", pushed_price)
-                        else:
-                            print(f"Data for ID {pushed_id} and Keyword {pushed_keyword} is NOT retrieved successfully from API.")
+                    
+                    # response = requests.request('POST','https://click.mmolovers.com/administrator/api/post_keyword', data=json.dumps(value))
+                    # print(response)
                     
                     sb.go_back()
                     time.sleep(10)
@@ -159,6 +134,8 @@ try:
                         delay=1,
                     )
                     print("click success  4 next image")
+        response = requests.request('POST','https://click.mmolovers.com/administrator/api/post_keyword', data=json.dumps(value))
+        print(response)
 
 except Exception as e:
     print(str(e))
