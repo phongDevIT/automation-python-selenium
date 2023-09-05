@@ -1,4 +1,3 @@
-
 from seleniumbase import SB
 import time
 import json
@@ -6,7 +5,10 @@ from selenium.webdriver.common.keys import Keys
 import re
 import html
 import requests
+from selenium import webdriver
 
+from BeeModule import test_module
+from BeeModule import BeeHelper
 def clean_html_tags(text):
     cleaned_text = re.sub(r"<.*?>", "" , text)
     cleaned_text = cleaned_text.replace("\n", "").strip()
@@ -23,7 +25,7 @@ try:
     ) as sb:
         email = {
             "email": "nguyendiphong159@gmail.com",
-            "pass_login": "nguyenngocphong31219",
+            "pass_login": "nguyenngocphong3121999",
         }
         sb.open("https://ads.google.com/")
         sb.click('//*[@id="header-topbar"]/div/div[3]/div/div[4]/a', timeout=5)
@@ -33,7 +35,7 @@ try:
         sb.click('button:contains("Next")', timeout=20, delay=1)
         sb.wait_for_element_absent('button:contains("Next")', timeout=5)
         print("successfully access google ads")
-        time.sleep(10)
+        time.sleep(20)
         sb.click('//*[@id="navigation.tools"]/div/a/rail-item', timeout=15, delay=1)
         # print("click success 1")
         sb.click(
@@ -46,7 +48,7 @@ try:
         response = requests.get(url)
         data = response.json()
         keywords = list(data.values())
-        
+        final= []
         for id, keyword in data.items():
             print(keyword)
             input_xpath = "/html/body/div[1]/root/div/div[1]/div[2]/div/div[3]/div/div/awsm-child-content/div[1]/div[2]/kp-root/div/div/view-loader[2]/splash-view/div/div/div[1]/splash-cards/div/div[1]/div[2]/focus-trap/div[2]/div[1]/div/div/split-ideas-input-panel/div/div[1]/div[1]/search-chips-selector/div/multi-suggest-input/div/div[1]/material-chips/div/div/input"
@@ -93,19 +95,17 @@ try:
                     
                     bid_min_value = bid_min_value.replace("₫", "").strip()
                     bid_max_value = bid_max_value.replace("₫", "").strip()
-                    price = {"Giá thấp": bid_min_value, "Giá cao": bid_max_value}
+                    price = {"GC": bid_min_value, "GT": bid_max_value}
                     json_data = json.dumps(data, ensure_ascii=False, indent=4)
                     # final = []
                     # print(f"\n{json_data}")
                     # value = [id ,keyword ,data]
                     value = {"id": id, "keyword": keyword, "Price": price}
-                    print(value)
-                    # final.append(value)
-                    # print(str(final))
+                    # print(value)
+                    final.append(value)
+                    print(str(final))
                     
                     
-                    # response = requests.request('POST','https://click.mmolovers.com/administrator/api/post_keyword', data=json.dumps(value))
-                    # print(response)
                     
                     sb.go_back()
                     time.sleep(10)
@@ -134,8 +134,11 @@ try:
                         delay=1,
                     )
                     print("click success  4 next image")
-        response = requests.request('POST','https://click.mmolovers.com/administrator/api/post_keyword', data=json.dumps(value))
+        helper = BeeHelper()  
+        url = 'https://dev92.beetech.one/test_post'
+        response = helper.push_everything(url, json.dumps(final))
         print(response)
-
+        print(response.json())
+        time.sleep(60)
 except Exception as e:
     print(str(e))
