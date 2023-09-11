@@ -5,18 +5,17 @@ import random
 
 
 class BeeHelper:
-
-    def push_everything (self, url ,data ):
+    def push_everything(self, url, data):
         try:
-            payload={ 'data': str(data) }
+            payload = {"data": str(data)}
             response = requests.request("POST", url, data=payload)
-            return response 
+            return response
         except Exception as e:
             print(str(e))
-            
 
 
 def test_module():
-    print('Hello World')
+    print("Hello World")
 
-test_module()
+
+# test_module()

@@ -1,14 +1,14 @@
-from seleniumbase import SB
-import time
 import json
-from selenium.webdriver.common.keys import Keys
 import re
-import html
-import requests
+import time
 
+from selenium.webdriver.common.keys import Keys
+from seleniumbase import SB
+
+from BeeModule import BeeHelper
 from email_google import EmailGoogleAccess
 from keyworkCPC import KeywordCPC
-from BeeModule import BeeHelper
+
 
 class MainClass:
     def __init__(self):
@@ -39,16 +39,16 @@ class MainClass:
                 final = []
                 while True:
                     final = KeywordCPC(self.sb, self.email_google).keyword_cpc()
-
-                    helper = BeeHelper()  
-                    url = 'https://dev92.beetech.one/test_post'
+                    helper = BeeHelper()
+                    url = "https://dev92.beetech.one/test_post/index.php"
                     response = helper.push_everything(url, json.dumps(final))
                     print(response)
                     print(response.json())
-                    time.sleep(60)
+                    time.sleep(10)
 
         except Exception as e:
             print(str(e))
+
 
 if __name__ == "__main__":
     main_instance = MainClass()
